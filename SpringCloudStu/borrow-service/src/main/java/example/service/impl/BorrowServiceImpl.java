@@ -1,16 +1,16 @@
 package example.service.impl;
 
 
+import com.test.entity.Book;
 import com.test.entity.Borrow;
+import com.test.entity.User;
 import example.entity.UserBorrowDetail;
 import example.mapper.BorrowMapper;
 import example.service.BorrowService;
-import org.apache.catalina.User;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import javax.annotation.Resource;
-import java.awt.print.Book;
 import java.util.List;
 import java.util.stream.Collectors;
 
