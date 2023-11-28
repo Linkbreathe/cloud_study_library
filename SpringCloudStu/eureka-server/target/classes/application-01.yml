@@ -1,0 +1,29 @@
+#server:
+#  port: 8888
+#eureka:
+#  client:
+#    # Since we are acting as a server, we do not need to obtain the server. Change it to false. The default is true.
+#    fetch-registry: false
+#    # There is no need to register yourself to Eureka for the time being.
+#    register-with-eureka: false
+#    # Point the eureka server to yourself
+#    service-url:
+#      defaultZone: http://localhost:8888/eureka
+
+
+server:
+  port: 8801
+spring:
+  application:
+    name: eurekaserver
+eureka:
+  instance:
+    # Since it does not support multiple localhost Eureka servers, but there is only a local test environment, you can only customize the host name.
+    # Change the host name to eureka01
+    hostname: eureka01
+  client:
+    fetch-registry: false
+    # Remove the register-with-eureka option and let the Eureka server register itself to other Eureka servers so that they can enable each other.
+    service-url:
+      # Note that you need to fill in the addresses of other Eureka servers here. You don’t need to write your own.
+      defaultZone: http://eureka02:8802/eureka
