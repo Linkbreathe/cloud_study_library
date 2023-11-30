@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="gatewayserver" />
         <module name="hystrix_dashb" />
+        <module name="config-server" />
         <module name="book-service" />
         <module name="borrow-service" />
         <module name="user-service" />
@@ -30,6 +31,7 @@
       <module name="book-service (2)" options="-parameters" />
       <module name="borrow-service" options="-parameters" />
       <module name="commons" options="-parameters" />
+      <module name="config-server" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="gatewayserver" options="-parameters" />
       <module name="hystrix-dashb" options="-parameters" />

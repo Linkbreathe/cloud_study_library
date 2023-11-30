@@ -3,11 +3,12 @@ server:
 spring:
   application:
     name: bookservice
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://192.168.190.128:3306/cloudstudy
-    username: root
-    password: 123
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://192.168.190.128:3306/cloudstudy
+#    username: root
+#    password: 123
+
 eureka:
   client:
     # As above, you need to point to the Eureka server address so that you can register.

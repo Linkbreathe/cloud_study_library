@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    config:
+      # namme: filename in github
+      name: bookservice
+      # server address
+      uri: http://localhost:8700
+      # env -enviorment
+      profile: prd
+      # branch in this place main can make it work
+      label: main
