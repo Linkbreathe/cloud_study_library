@@ -23,6 +23,7 @@
         <module>commons</module>
         <module>eureka-server</module>
         <module>hystrix_dashb</module>
+        <module>gatewayserver</module>
     </modules>
     <properties>
         <java.version>8</java.version>
