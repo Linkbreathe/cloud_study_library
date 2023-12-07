@@ -1,0 +1,14 @@
+spring:
+  application:
+    # server-name = configuration-name
+    name: book-service
+  profiles:
+    # environment
+    active: dev
+  cloud:
+    nacos:
+      config:
+        # suffix
+        file-extension: yml
+        # nacos address
+        server-addr: localhost:8848
