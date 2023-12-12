@@ -10,6 +10,9 @@ spring:
   application:
     name: book-service
   cloud:
+    sentinel:
+      transport:
+        dashboard: localhost:8858
     nacos:
       discovery:
         # Nacos configuration
@@ -19,3 +22,6 @@ spring:
     loadbalancer:
       nacos:
         enabled: true
+
+
+

@@ -9,6 +9,9 @@ spring:
   application:
     name: borrow-service
   cloud:
+    sentinel:
+      transport:
+        dashboard: localhost:8858
     nacos:
       discovery:
         # Nacos configuration

@@ -1,0 +1,224 @@
+2023-12-11 20:55:05,919 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Beijing, new ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 20:55:05,922 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,
+
+2023-12-11 20:55:05,926 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 20:55:05,926 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,192.168.190.1:8101_true,
+
+2023-12-11 20:55:09,675 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 20:55:09,675 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8302_true,
+
+2023-12-11 20:55:13,215 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 20:55:13,216 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,192.168.190.1:8302_true,
+
+2023-12-11 20:55:15,636 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 20:55:15,636 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.190.1:8201_true,
+
+2023-12-11 21:05:25,497 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 21:05:25,497 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-12-11 21:05:47,044 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 21:05:47,044 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.190.1:8201_true,
+
+2023-12-11 21:45:37,124 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 21:45:37,125 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,
+
+2023-12-11 21:45:37,250 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 21:45:37,251 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-12-11 21:46:02,807 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 21:46:02,807 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8302_true,
+
+2023-12-11 21:46:05,461 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 21:46:05,461 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,192.168.190.1:8302_true,
+
+2023-12-11 22:01:06,590 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Beijing, dead ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 22:01:06,590 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8101_true,
+
+2023-12-11 22:01:06,657 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:01:06,657 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-12-11 22:01:06,666 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:01:06,666 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,
+
+2023-12-11 22:01:06,727 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:01:06,727 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-12-11 22:01:06,781 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 22:01:06,781 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-12-11 22:01:23,949 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Beijing, new ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 22:01:23,949 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,
+
+2023-12-11 22:01:26,438 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:01:26,438 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,192.168.190.1:8101_true,
+
+2023-12-11 22:01:31,474 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 22:01:31,474 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.190.1:8201_true,
+
+2023-12-11 22:01:34,114 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:01:34,114 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8302_true,
+
+2023-12-11 22:01:35,944 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:01:35,944 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,192.168.190.1:8302_true,
+
+2023-12-11 22:03:39,412 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Beijing, dead ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 22:03:39,412 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8101_true,
+
+2023-12-11 22:03:39,467 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:03:39,467 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-12-11 22:03:39,516 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:03:39,516 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,
+
+2023-12-11 22:03:39,590 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:03:39,590 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-12-11 22:03:39,670 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 22:03:39,670 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-12-11 22:03:56,247 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 22:03:56,247 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.190.1:8201_true,
+
+2023-12-11 22:03:59,499 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:03:59,499 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,
+
+2023-12-11 22:04:01,401 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Beijing, new ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 22:04:01,401 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,
+
+2023-12-11 22:04:03,104 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:04:03,104 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,192.168.190.1:8101_true,
+
+2023-12-11 22:04:05,031 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:04:05,031 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,192.168.190.1:8302_true,
+
+2023-12-11 22:04:46,641 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 22:04:46,641 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-12-11 22:04:46,704 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:04:46,704 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8302_true,
+
+2023-12-11 22:04:46,741 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:04:46,741 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-12-11 22:04:46,773 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:04:46,773 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,
+
+2023-12-11 22:04:46,840 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Beijing, dead ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 22:04:46,840 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-12-11 22:06:08,478 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Beijing, new ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 22:06:08,478 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,
+
+2023-12-11 22:06:10,333 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:06:10,333 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,192.168.190.1:8101_true,
+
+2023-12-11 22:06:12,686 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:06:12,686 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8302_true,
+
+2023-12-11 22:06:14,366 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:06:14,366 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,192.168.190.1:8302_true,
+
+2023-12-11 22:06:15,509 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 22:06:15,509 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.190.1:8201_true,
+
+2023-12-11 22:07:00,261 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 22:07:00,261 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2023-12-11 22:07:00,321 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:07:00,321 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8302_true,
+
+2023-12-11 22:07:00,364 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:07:00,364 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-12-11 22:07:00,390 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:07:00,390 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,
+
+2023-12-11 22:07:00,422 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Beijing, dead ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 22:07:00,423 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-12-11 22:07:34,106 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Beijing, new ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 22:07:34,106 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,
+
+2023-12-11 22:07:36,264 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:07:36,265 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8102_true,192.168.190.1:8101_true,
+
+2023-12-11 22:07:38,988 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:07:38,988 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8302_true,
+
+2023-12-11 22:07:40,952 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: Nanchang, new ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:07:40,952 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,192.168.190.1:8302_true,
+
+2023-12-11 22:07:43,014 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 22:07:43,014 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.190.1:8201_true,
+
+2023-12-11 22:08:40,701 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Beijing, dead ips size: 1, content: [192.168.190.1:8102:unknown:Beijing_1.0_true_false_Beijing]
+
+2023-12-11 22:08:40,701 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 192.168.190.1:8101_true,
+
+2023-12-11 22:08:48,779 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8101:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:08:48,779 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@book-service, ips: 
+
+2023-12-11 22:08:58,021 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8302:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:08:58,021 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 192.168.190.1:8301_true,
+
+2023-12-11 22:09:03,661 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: Nanchang, dead ips size: 1, content: [192.168.190.1:8301:unknown:Nanchang_1.0_true_false_Nanchang]
+
+2023-12-11 22:09:03,661 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@user-service, ips: 
+
+2023-12-11 22:09:12,649 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.190.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-12-11 22:09:12,649 INFO [IP-UPDATED] namespace: 4f951b28-e2e2-46d6-9c2b-448fd33895dc, service: DEFAULT_GROUP@@borrow-service, ips: 
+

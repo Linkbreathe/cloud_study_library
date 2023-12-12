@@ -1,6 +1,7 @@
 package example.service.impl;
 
 
+import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.test.entity.Book;
 import com.test.entity.Borrow;
 import com.test.entity.User;
@@ -25,7 +26,7 @@ public class BorrowServiceImpl implements BorrowService{
     UserClient userClient;
     @Resource
     BookClient bookClient;
-
+    @SentinelResource("getBorrow")   //监控此方法，无论被谁执行都在监控范围内，这里给的value是自定义名称，这个注解可以加在任何方法上，包括Controller中的请求映射方法，跟HystrixCommand贼像
     @Override
     public UserBorrowDetail getUserBorrowDetailByUid(int uid) {
         List<Borrow> borrow = mapper.getBorrowsByUid(uid);

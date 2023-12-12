@@ -12,3 +12,4 @@ spring:
         file-extension: yml
         # nacos address
         server-addr: localhost:8848
+
