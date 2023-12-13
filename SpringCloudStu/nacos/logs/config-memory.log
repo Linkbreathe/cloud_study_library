@@ -1,2466 +1,1812 @@
-2023-12-13 00:00:08,635 INFO toNotifyTaskSize = 0
+2023-12-14 00:00:02,639 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:00:08,635 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:00:02,639 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:00:08,663 INFO [long-pulling] client count 4
+2023-12-14 00:00:02,741 INFO [long-pulling] client count 4
 
-2023-12-13 00:00:18,658 INFO toNotifyTaskSize = 0
+2023-12-14 00:00:12,641 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:00:18,658 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:00:12,641 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:00:18,665 INFO [long-pulling] client count 4
+2023-12-14 00:00:12,742 INFO [long-pulling] client count 4
 
-2023-12-13 00:00:28,659 INFO toNotifyTaskSize = 0
+2023-12-14 00:00:22,644 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:00:28,659 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:00:22,644 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:00:28,667 INFO [long-pulling] client count 4
+2023-12-14 00:00:22,745 INFO [long-pulling] client count 4
 
-2023-12-13 00:00:38,662 INFO toNotifyTaskSize = 0
+2023-12-14 00:00:32,645 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:00:38,662 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:00:32,645 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:00:38,669 INFO [long-pulling] client count 4
+2023-12-14 00:00:32,749 INFO [long-pulling] client count 4
 
-2023-12-13 00:00:48,664 INFO toNotifyTaskSize = 0
+2023-12-14 00:00:42,648 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:00:48,664 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:00:42,648 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:00:48,672 INFO [long-pulling] client count 4
+2023-12-14 00:00:42,752 INFO [long-pulling] client count 4
 
-2023-12-13 00:00:58,667 INFO toNotifyTaskSize = 0
+2023-12-14 00:00:52,651 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:00:58,667 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:00:52,651 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:00:58,674 INFO [long-pulling] client count 4
+2023-12-14 00:00:52,754 INFO [long-pulling] client count 4
 
-2023-12-13 00:01:08,668 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:01:02,656 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:01:08,668 INFO toNotifyTaskSize = 0
+2023-12-14 00:01:02,656 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:01:08,675 INFO [long-pulling] client count 4
+2023-12-14 00:01:02,755 INFO [long-pulling] client count 4
 
-2023-12-13 00:01:18,672 INFO toNotifyTaskSize = 0
+2023-12-14 00:01:12,656 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:01:18,672 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:01:12,656 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:01:18,676 INFO [long-pulling] client count 4
+2023-12-14 00:01:12,757 INFO [long-pulling] client count 4
 
-2023-12-13 00:01:28,673 INFO toNotifyTaskSize = 0
+2023-12-14 00:01:22,658 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:01:28,673 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:01:22,658 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:01:28,677 INFO [long-pulling] client count 4
+2023-12-14 00:01:22,757 INFO [long-pulling] client count 4
 
-2023-12-13 00:01:38,676 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:01:32,658 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:01:38,676 INFO toNotifyTaskSize = 0
+2023-12-14 00:01:32,658 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:01:38,679 INFO [long-pulling] client count 4
+2023-12-14 00:01:32,759 INFO [long-pulling] client count 4
 
-2023-12-13 00:01:48,678 INFO toNotifyTaskSize = 0
+2023-12-14 00:01:42,659 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:01:48,678 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:01:42,659 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:01:48,682 INFO [long-pulling] client count 4
+2023-12-14 00:01:42,761 INFO [long-pulling] client count 4
 
-2023-12-13 00:01:58,680 INFO toNotifyTaskSize = 0
+2023-12-14 00:01:52,660 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:01:58,680 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:01:52,660 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:01:58,684 INFO [long-pulling] client count 4
+2023-12-14 00:01:52,762 INFO [long-pulling] client count 4
 
-2023-12-13 00:02:08,681 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:02:02,663 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:02:08,681 INFO toNotifyTaskSize = 0
+2023-12-14 00:02:02,663 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:02:08,685 INFO [long-pulling] client count 4
+2023-12-14 00:02:02,766 INFO [long-pulling] client count 4
 
-2023-12-13 00:02:18,684 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:02:12,666 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:02:18,684 INFO toNotifyTaskSize = 0
+2023-12-14 00:02:12,666 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:02:18,688 INFO [long-pulling] client count 4
+2023-12-14 00:02:12,768 INFO [long-pulling] client count 4
 
-2023-12-13 00:02:28,688 INFO toNotifyTaskSize = 0
+2023-12-14 00:02:22,667 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:02:28,688 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:02:22,667 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:02:28,692 INFO [long-pulling] client count 4
+2023-12-14 00:02:22,770 INFO [long-pulling] client count 4
 
-2023-12-13 00:02:38,690 INFO toNotifyTaskSize = 0
+2023-12-14 00:02:32,668 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:02:38,690 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:02:32,668 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:02:38,694 INFO [long-pulling] client count 4
+2023-12-14 00:02:32,771 INFO [long-pulling] client count 4
 
-2023-12-13 00:02:48,691 INFO toNotifyTaskSize = 0
+2023-12-14 00:02:42,668 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:02:48,691 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:02:42,668 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:02:48,694 INFO [long-pulling] client count 4
+2023-12-14 00:02:42,773 INFO [long-pulling] client count 4
 
-2023-12-13 00:02:58,695 INFO toNotifyTaskSize = 0
+2023-12-14 00:02:52,669 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:02:58,695 INFO [long-pulling] client count 4
+2023-12-14 00:02:52,669 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:02:58,695 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:02:52,775 INFO [long-pulling] client count 4
 
-2023-12-13 00:03:08,697 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:03:02,673 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:03:08,697 INFO [long-pulling] client count 4
+2023-12-14 00:03:02,673 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:03:08,697 INFO toNotifyTaskSize = 0
+2023-12-14 00:03:02,778 INFO [long-pulling] client count 4
 
-2023-12-13 00:03:18,699 INFO [long-pulling] client count 4
+2023-12-14 00:03:12,676 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:03:18,699 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:03:12,676 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:03:18,699 INFO toNotifyTaskSize = 0
+2023-12-14 00:03:12,780 INFO [long-pulling] client count 4
 
-2023-12-13 00:03:28,702 INFO toNotifyTaskSize = 0
+2023-12-14 00:03:22,678 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:03:28,702 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:03:22,678 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:03:28,702 INFO [long-pulling] client count 4
+2023-12-14 00:03:22,782 INFO [long-pulling] client count 4
 
-2023-12-13 00:03:38,702 INFO [long-pulling] client count 4
+2023-12-14 00:03:32,680 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:03:38,702 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:03:32,680 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:03:38,702 INFO toNotifyTaskSize = 0
+2023-12-14 00:03:32,783 INFO [long-pulling] client count 4
 
-2023-12-13 00:03:48,704 INFO toNotifyTaskSize = 0
+2023-12-14 00:03:42,683 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:03:48,704 INFO [long-pulling] client count 4
+2023-12-14 00:03:42,683 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:03:48,704 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:03:42,784 INFO [long-pulling] client count 4
 
-2023-12-13 00:03:58,707 INFO [long-pulling] client count 4
+2023-12-14 00:03:52,684 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:03:58,707 INFO toNotifyTaskSize = 0
+2023-12-14 00:03:52,684 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:03:58,707 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:03:52,785 INFO [long-pulling] client count 4
 
-2023-12-13 00:04:08,707 INFO [long-pulling] client count 4
+2023-12-14 00:04:02,684 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:04:08,707 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:04:02,684 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:04:08,707 INFO toNotifyTaskSize = 0
+2023-12-14 00:04:02,787 INFO [long-pulling] client count 4
 
-2023-12-13 00:04:18,710 INFO [long-pulling] client count 4
+2023-12-14 00:04:12,685 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:04:18,710 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:04:12,685 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:04:18,710 INFO toNotifyTaskSize = 0
+2023-12-14 00:04:12,788 INFO [long-pulling] client count 4
 
-2023-12-13 00:04:28,713 INFO [long-pulling] client count 4
+2023-12-14 00:04:22,687 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:04:28,713 INFO toNotifyTaskSize = 0
+2023-12-14 00:04:22,687 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:04:28,713 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:04:22,792 INFO [long-pulling] client count 4
 
-2023-12-13 00:04:38,713 INFO [long-pulling] client count 4
+2023-12-14 00:04:32,689 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:04:38,713 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:04:32,689 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:04:38,713 INFO toNotifyTaskSize = 0
+2023-12-14 00:04:32,793 INFO [long-pulling] client count 4
 
-2023-12-13 00:04:48,716 INFO [long-pulling] client count 4
+2023-12-14 00:04:42,689 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:04:48,716 INFO toNotifyTaskSize = 0
+2023-12-14 00:04:42,689 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:04:48,716 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:04:42,795 INFO [long-pulling] client count 4
 
-2023-12-13 00:04:58,717 INFO [long-pulling] client count 4
+2023-12-14 00:04:52,691 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:04:58,717 INFO toNotifyTaskSize = 0
+2023-12-14 00:04:52,691 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:04:58,717 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:04:52,798 INFO [long-pulling] client count 4
 
-2023-12-13 00:05:08,719 INFO [long-pulling] client count 4
+2023-12-14 00:05:02,693 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:05:08,719 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:05:02,693 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:05:08,719 INFO toNotifyTaskSize = 0
+2023-12-14 00:05:02,801 INFO [long-pulling] client count 4
 
-2023-12-13 00:05:18,720 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:05:12,694 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:05:18,720 INFO toNotifyTaskSize = 0
+2023-12-14 00:05:12,694 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:05:18,720 INFO [long-pulling] client count 4
+2023-12-14 00:05:12,803 INFO [long-pulling] client count 4
 
-2023-12-13 00:05:28,720 INFO [long-pulling] client count 4
+2023-12-14 00:05:22,697 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:05:28,720 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:05:22,697 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:05:28,720 INFO toNotifyTaskSize = 0
+2023-12-14 00:05:22,806 INFO [long-pulling] client count 4
 
-2023-12-13 00:05:38,723 INFO [long-pulling] client count 4
+2023-12-14 00:05:32,698 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:05:38,723 INFO toNotifyTaskSize = 0
+2023-12-14 00:05:32,698 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:05:38,723 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:05:32,810 INFO [long-pulling] client count 4
 
-2023-12-13 00:05:48,724 INFO [long-pulling] client count 4
+2023-12-14 00:05:42,698 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:05:48,724 INFO toNotifyTaskSize = 0
+2023-12-14 00:05:42,698 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:05:48,724 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:05:42,813 INFO [long-pulling] client count 4
 
-2023-12-13 00:05:58,726 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:05:52,699 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:05:58,726 INFO [long-pulling] client count 4
+2023-12-14 00:05:52,699 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:05:58,726 INFO toNotifyTaskSize = 0
+2023-12-14 00:05:52,816 INFO [long-pulling] client count 4
 
-2023-12-13 00:06:08,729 INFO [long-pulling] client count 4
+2023-12-14 00:06:02,700 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:06:08,729 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:06:02,700 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:06:08,729 INFO toNotifyTaskSize = 0
+2023-12-14 00:06:02,822 INFO [long-pulling] client count 4
 
-2023-12-13 00:06:18,731 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:06:12,702 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:06:18,731 INFO [long-pulling] client count 4
+2023-12-14 00:06:12,702 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:06:18,731 INFO toNotifyTaskSize = 0
+2023-12-14 00:06:12,825 INFO [long-pulling] client count 4
 
-2023-12-13 00:06:28,732 INFO [long-pulling] client count 4
+2023-12-14 00:06:22,704 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:06:28,732 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:06:22,704 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:06:28,732 INFO toNotifyTaskSize = 0
+2023-12-14 00:06:22,829 INFO [long-pulling] client count 4
 
-2023-12-13 00:06:38,732 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:06:32,704 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:06:38,732 INFO [long-pulling] client count 4
+2023-12-14 00:06:32,704 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:06:38,732 INFO toNotifyTaskSize = 0
+2023-12-14 00:06:32,832 INFO [long-pulling] client count 4
 
-2023-12-13 00:06:48,734 INFO [long-pulling] client count 4
+2023-12-14 00:06:42,706 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:06:48,734 INFO toNotifyTaskSize = 0
+2023-12-14 00:06:42,706 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:06:48,734 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:06:42,835 INFO [long-pulling] client count 4
 
-2023-12-13 00:06:58,735 INFO [long-pulling] client count 4
+2023-12-14 00:06:52,709 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:06:58,735 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:06:52,709 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:06:58,735 INFO toNotifyTaskSize = 0
+2023-12-14 00:06:52,838 INFO [long-pulling] client count 4
 
-2023-12-13 00:07:08,737 INFO [long-pulling] client count 4
+2023-12-14 00:07:02,710 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:07:08,737 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:07:02,710 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:07:08,737 INFO toNotifyTaskSize = 0
+2023-12-14 00:07:02,842 INFO [long-pulling] client count 4
 
-2023-12-13 00:07:18,737 INFO toNotifyTaskSize = 0
+2023-12-14 00:07:12,712 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:07:18,737 INFO [long-pulling] client count 4
+2023-12-14 00:07:12,712 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:07:18,737 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:07:12,846 INFO [long-pulling] client count 4
 
-2023-12-13 00:07:28,739 INFO [long-pulling] client count 4
+2023-12-14 00:07:22,712 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:07:28,739 INFO toNotifyTaskSize = 0
+2023-12-14 00:07:22,712 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:07:28,739 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:07:22,848 INFO [long-pulling] client count 4
 
-2023-12-13 00:07:38,742 INFO [long-pulling] client count 4
+2023-12-14 00:07:32,713 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:07:38,742 INFO toNotifyTaskSize = 0
+2023-12-14 00:07:32,713 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:07:38,742 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:07:32,848 INFO [long-pulling] client count 4
 
-2023-12-13 00:07:48,746 INFO toNotifyTaskSize = 0
+2023-12-14 00:07:42,715 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:07:48,746 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:07:42,715 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:07:48,746 INFO [long-pulling] client count 4
+2023-12-14 00:07:42,852 INFO [long-pulling] client count 4
 
-2023-12-13 00:07:58,747 INFO [long-pulling] client count 4
+2023-12-14 00:07:52,717 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:07:58,747 INFO toNotifyTaskSize = 0
+2023-12-14 00:07:52,717 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:07:58,747 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:07:52,852 INFO [long-pulling] client count 4
 
-2023-12-13 00:08:08,749 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:08:02,719 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:08:08,749 INFO toNotifyTaskSize = 0
+2023-12-14 00:08:02,719 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:08:08,749 INFO [long-pulling] client count 4
+2023-12-14 00:08:02,852 INFO [long-pulling] client count 4
 
-2023-12-13 00:08:18,753 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:08:12,720 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:08:18,753 INFO toNotifyTaskSize = 0
+2023-12-14 00:08:12,720 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:08:18,753 INFO [long-pulling] client count 4
+2023-12-14 00:08:12,855 INFO [long-pulling] client count 4
 
-2023-12-13 00:08:28,753 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:08:22,722 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:08:28,753 INFO toNotifyTaskSize = 0
+2023-12-14 00:08:22,722 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:08:28,757 INFO [long-pulling] client count 4
+2023-12-14 00:08:22,857 INFO [long-pulling] client count 4
 
-2023-12-13 00:08:38,753 INFO toNotifyTaskSize = 0
+2023-12-14 00:08:32,725 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:08:38,753 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:08:32,725 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:08:38,757 INFO [long-pulling] client count 4
+2023-12-14 00:08:32,859 INFO [long-pulling] client count 4
 
-2023-12-13 00:08:48,756 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:08:42,726 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:08:48,756 INFO toNotifyTaskSize = 0
+2023-12-14 00:08:42,726 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:08:48,760 INFO [long-pulling] client count 4
+2023-12-14 00:08:42,863 INFO [long-pulling] client count 4
 
-2023-12-13 00:08:58,760 INFO [long-pulling] client count 4
+2023-12-14 00:08:52,728 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:08:58,760 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:08:52,728 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:08:58,760 INFO toNotifyTaskSize = 0
+2023-12-14 00:08:52,864 INFO [long-pulling] client count 4
 
-2023-12-13 00:09:08,763 INFO toNotifyTaskSize = 0
+2023-12-14 00:09:02,729 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:09:08,763 INFO [long-pulling] client count 4
+2023-12-14 00:09:02,729 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:09:08,763 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:09:02,864 INFO [long-pulling] client count 4
 
-2023-12-13 00:09:18,765 INFO [long-pulling] client count 4
+2023-12-14 00:09:12,731 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:09:18,765 INFO toNotifyTaskSize = 0
+2023-12-14 00:09:12,731 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:09:18,765 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:09:12,865 INFO [long-pulling] client count 4
 
-2023-12-13 00:09:28,767 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:09:22,733 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:09:28,767 INFO [long-pulling] client count 4
+2023-12-14 00:09:22,733 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:09:28,767 INFO toNotifyTaskSize = 0
+2023-12-14 00:09:22,866 INFO [long-pulling] client count 4
 
-2023-12-13 00:09:38,769 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:09:32,736 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:09:38,769 INFO toNotifyTaskSize = 0
+2023-12-14 00:09:32,736 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:09:38,769 INFO [long-pulling] client count 4
+2023-12-14 00:09:32,868 INFO [long-pulling] client count 4
 
-2023-12-13 00:09:48,772 INFO [long-pulling] client count 4
+2023-12-14 00:09:42,737 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:09:48,772 INFO toNotifyTaskSize = 0
+2023-12-14 00:09:42,737 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:09:48,772 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:09:42,872 INFO [long-pulling] client count 4
 
-2023-12-13 00:09:58,774 INFO [long-pulling] client count 4
+2023-12-14 00:09:52,739 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:09:58,774 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:09:52,739 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:09:58,774 INFO toNotifyTaskSize = 0
+2023-12-14 00:09:52,873 INFO [long-pulling] client count 4
 
-2023-12-13 00:10:08,775 INFO toNotifyTaskSize = 0
+2023-12-14 00:10:02,742 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:10:08,775 INFO [long-pulling] client count 4
+2023-12-14 00:10:02,742 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:10:08,775 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:10:02,874 INFO [long-pulling] client count 4
 
-2023-12-13 00:10:18,778 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:10:12,745 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:10:18,778 INFO [long-pulling] client count 4
+2023-12-14 00:10:12,745 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:10:18,778 INFO toNotifyTaskSize = 0
+2023-12-14 00:10:12,877 INFO [long-pulling] client count 4
 
-2023-12-13 00:10:28,779 INFO toNotifyTaskSize = 0
+2023-12-14 00:10:22,747 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:10:28,779 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:10:22,747 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:10:28,779 INFO [long-pulling] client count 4
+2023-12-14 00:10:22,880 INFO [long-pulling] client count 4
 
-2023-12-13 00:10:38,779 INFO toNotifyTaskSize = 0
+2023-12-14 00:10:32,749 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:10:38,779 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:10:32,749 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:10:38,783 INFO [long-pulling] client count 4
+2023-12-14 00:10:32,882 INFO [long-pulling] client count 4
 
-2023-12-13 00:10:48,783 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:10:42,750 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:10:48,783 INFO toNotifyTaskSize = 0
+2023-12-14 00:10:42,750 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:10:48,786 INFO [long-pulling] client count 4
+2023-12-14 00:10:42,885 INFO [long-pulling] client count 4
 
-2023-12-13 00:10:58,783 INFO toNotifyTaskSize = 0
+2023-12-14 00:10:52,751 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:10:58,783 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:10:52,751 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:10:58,787 INFO [long-pulling] client count 4
+2023-12-14 00:10:52,886 INFO [long-pulling] client count 4
 
-2023-12-13 00:11:08,785 INFO toNotifyTaskSize = 0
+2023-12-14 00:11:02,752 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:11:08,785 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:11:02,752 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:11:08,789 INFO [long-pulling] client count 4
+2023-12-14 00:11:02,886 INFO [long-pulling] client count 4
 
-2023-12-13 00:11:18,788 INFO toNotifyTaskSize = 0
+2023-12-14 00:11:12,754 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:11:18,788 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:11:12,754 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:11:18,792 INFO [long-pulling] client count 4
+2023-12-14 00:11:12,887 INFO [long-pulling] client count 4
 
-2023-12-13 00:11:28,789 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:11:22,755 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:11:28,789 INFO toNotifyTaskSize = 0
+2023-12-14 00:11:22,755 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:11:28,793 INFO [long-pulling] client count 4
+2023-12-14 00:11:22,887 INFO [long-pulling] client count 4
 
-2023-12-13 00:11:38,789 INFO toNotifyTaskSize = 0
+2023-12-14 00:11:32,758 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:11:38,789 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:11:32,758 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:11:38,796 INFO [long-pulling] client count 4
+2023-12-14 00:11:32,890 INFO [long-pulling] client count 4
 
-2023-12-13 00:11:48,790 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:11:42,761 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:11:48,790 INFO toNotifyTaskSize = 0
+2023-12-14 00:11:42,761 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:11:48,796 INFO [long-pulling] client count 4
+2023-12-14 00:11:42,892 INFO [long-pulling] client count 4
 
-2023-12-13 00:11:58,793 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:11:52,764 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:11:58,793 INFO toNotifyTaskSize = 0
+2023-12-14 00:11:52,764 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:11:58,797 INFO [long-pulling] client count 4
+2023-12-14 00:11:52,893 INFO [long-pulling] client count 4
 
-2023-12-13 00:12:08,797 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:12:02,765 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:12:08,797 INFO toNotifyTaskSize = 0
+2023-12-14 00:12:02,765 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:12:08,801 INFO [long-pulling] client count 4
+2023-12-14 00:12:02,895 INFO [long-pulling] client count 4
 
-2023-12-13 00:12:18,798 INFO toNotifyTaskSize = 0
+2023-12-14 00:12:12,767 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:12:18,798 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:12:12,767 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:12:18,802 INFO [long-pulling] client count 4
+2023-12-14 00:12:12,896 INFO [long-pulling] client count 4
 
-2023-12-13 00:12:28,801 INFO toNotifyTaskSize = 0
+2023-12-14 00:12:22,769 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:12:28,801 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:12:22,769 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:12:28,805 INFO [long-pulling] client count 4
+2023-12-14 00:12:22,899 INFO [long-pulling] client count 4
 
-2023-12-13 00:12:38,801 INFO toNotifyTaskSize = 0
+2023-12-14 00:12:32,770 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:12:38,801 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:12:32,770 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:12:38,807 INFO [long-pulling] client count 4
+2023-12-14 00:12:32,901 INFO [long-pulling] client count 4
 
-2023-12-13 00:12:48,803 INFO toNotifyTaskSize = 0
+2023-12-14 00:12:42,773 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:12:48,803 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:12:42,773 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:12:48,810 INFO [long-pulling] client count 4
+2023-12-14 00:12:42,903 INFO [long-pulling] client count 4
 
-2023-12-13 00:12:58,805 INFO toNotifyTaskSize = 0
+2023-12-14 00:12:52,774 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:12:58,805 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:12:52,774 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:12:58,813 INFO [long-pulling] client count 4
+2023-12-14 00:12:52,903 INFO [long-pulling] client count 4
 
-2023-12-13 00:13:08,806 INFO toNotifyTaskSize = 0
+2023-12-14 00:13:02,776 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:13:08,806 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:13:02,776 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:13:08,813 INFO [long-pulling] client count 4
+2023-12-14 00:13:02,905 INFO [long-pulling] client count 4
 
-2023-12-13 00:13:18,810 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:13:12,778 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:13:18,810 INFO toNotifyTaskSize = 0
+2023-12-14 00:13:12,778 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:13:18,814 INFO [long-pulling] client count 4
+2023-12-14 00:13:12,906 INFO [long-pulling] client count 4
 
-2023-12-13 00:13:28,811 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:13:22,778 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:13:28,811 INFO toNotifyTaskSize = 0
+2023-12-14 00:13:22,778 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:13:28,817 INFO [long-pulling] client count 4
+2023-12-14 00:13:22,910 INFO [long-pulling] client count 4
 
-2023-12-13 00:13:38,811 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:13:32,780 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:13:38,811 INFO toNotifyTaskSize = 0
+2023-12-14 00:13:32,780 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:13:38,819 INFO [long-pulling] client count 4
+2023-12-14 00:13:32,912 INFO [long-pulling] client count 4
 
-2023-12-13 00:13:48,813 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:13:42,784 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:13:48,813 INFO toNotifyTaskSize = 0
+2023-12-14 00:13:42,784 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:13:48,821 INFO [long-pulling] client count 4
+2023-12-14 00:13:42,914 INFO [long-pulling] client count 4
 
-2023-12-13 00:13:58,815 INFO toNotifyTaskSize = 0
+2023-12-14 00:13:52,787 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:13:58,815 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:13:52,787 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:13:58,822 INFO [long-pulling] client count 4
+2023-12-14 00:13:52,918 INFO [long-pulling] client count 4
 
-2023-12-13 00:14:08,818 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:14:02,788 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:14:08,818 INFO toNotifyTaskSize = 0
+2023-12-14 00:14:02,788 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:14:08,822 INFO [long-pulling] client count 4
+2023-12-14 00:14:02,920 INFO [long-pulling] client count 4
 
-2023-12-13 00:14:18,819 INFO toNotifyTaskSize = 0
+2023-12-14 00:14:12,791 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:14:18,819 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:14:12,791 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:14:18,823 INFO [long-pulling] client count 4
+2023-12-14 00:14:12,924 INFO [long-pulling] client count 4
 
-2023-12-13 00:14:28,819 INFO toNotifyTaskSize = 0
+2023-12-14 00:14:22,795 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:14:28,819 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:14:22,795 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:14:28,824 INFO [long-pulling] client count 4
+2023-12-14 00:14:22,927 INFO [long-pulling] client count 4
 
-2023-12-13 00:14:38,822 INFO toNotifyTaskSize = 0
+2023-12-14 00:14:32,796 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:14:38,822 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:14:32,796 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:14:38,826 INFO [long-pulling] client count 4
+2023-12-14 00:14:32,928 INFO [long-pulling] client count 4
 
-2023-12-13 00:14:48,826 INFO toNotifyTaskSize = 0
+2023-12-14 00:14:42,796 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:14:48,826 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:14:42,796 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:14:48,826 INFO [long-pulling] client count 4
+2023-12-14 00:14:42,928 INFO [long-pulling] client count 4
 
-2023-12-13 00:14:58,828 INFO toNotifyTaskSize = 0
+2023-12-14 00:14:52,798 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:14:58,828 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:14:52,798 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:14:58,828 INFO [long-pulling] client count 4
+2023-12-14 00:14:52,932 INFO [long-pulling] client count 4
 
-2023-12-13 00:15:08,829 INFO [long-pulling] client count 4
+2023-12-14 00:15:02,802 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:15:08,829 INFO toNotifyTaskSize = 0
+2023-12-14 00:15:02,802 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:15:08,829 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:15:02,935 INFO [long-pulling] client count 4
 
-2023-12-13 00:15:18,832 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:15:12,802 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:15:18,832 INFO [long-pulling] client count 4
+2023-12-14 00:15:12,802 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:15:18,832 INFO toNotifyTaskSize = 0
+2023-12-14 00:15:12,937 INFO [long-pulling] client count 4
 
-2023-12-13 00:15:28,835 INFO [long-pulling] client count 4
+2023-12-14 00:15:22,803 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:15:28,835 INFO toNotifyTaskSize = 0
+2023-12-14 00:15:22,803 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:15:28,835 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:15:22,939 INFO [long-pulling] client count 4
 
-2023-12-13 00:15:38,838 INFO toNotifyTaskSize = 0
+2023-12-14 00:15:32,804 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:15:38,838 INFO [long-pulling] client count 4
+2023-12-14 00:15:32,804 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:15:38,838 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:15:32,941 INFO [long-pulling] client count 4
 
-2023-12-13 00:15:48,850 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:15:42,806 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:15:48,850 INFO [long-pulling] client count 4
+2023-12-14 00:15:42,806 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:15:48,850 INFO toNotifyTaskSize = 0
+2023-12-14 00:15:42,942 INFO [long-pulling] client count 4
 
-2023-12-13 00:15:58,853 INFO [long-pulling] client count 4
+2023-12-14 00:15:52,810 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:15:58,853 INFO toNotifyTaskSize = 0
+2023-12-14 00:15:52,810 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:15:58,853 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:15:52,942 INFO [long-pulling] client count 4
 
-2023-12-13 00:16:08,856 INFO toNotifyTaskSize = 0
+2023-12-14 00:16:02,811 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:16:08,856 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:16:02,811 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:16:08,856 INFO [long-pulling] client count 4
+2023-12-14 00:16:02,944 INFO [long-pulling] client count 4
 
-2023-12-13 00:16:18,858 INFO toNotifyTaskSize = 0
+2023-12-14 00:16:12,812 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:16:18,858 INFO [long-pulling] client count 4
+2023-12-14 00:16:12,812 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:16:18,858 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:16:12,947 INFO [long-pulling] client count 4
 
-2023-12-13 00:16:28,862 INFO [long-pulling] client count 4
+2023-12-14 00:16:22,812 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:16:28,862 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:16:22,812 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:16:28,862 INFO toNotifyTaskSize = 0
+2023-12-14 00:16:22,949 INFO [long-pulling] client count 4
 
-2023-12-13 00:16:38,864 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:16:32,816 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:16:38,864 INFO [long-pulling] client count 4
+2023-12-14 00:16:32,816 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:16:38,864 INFO toNotifyTaskSize = 0
+2023-12-14 00:16:32,953 INFO [long-pulling] client count 4
 
-2023-12-13 00:16:48,866 INFO [long-pulling] client count 4
+2023-12-14 00:16:42,818 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:16:48,866 INFO toNotifyTaskSize = 0
+2023-12-14 00:16:42,818 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:16:48,866 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:16:42,956 INFO [long-pulling] client count 4
 
-2023-12-13 00:16:58,868 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:16:52,819 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:16:58,868 INFO toNotifyTaskSize = 0
+2023-12-14 00:16:52,819 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:16:58,868 INFO [long-pulling] client count 4
+2023-12-14 00:16:52,959 INFO [long-pulling] client count 4
 
-2023-12-13 00:17:08,869 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:17:02,822 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:17:08,869 INFO toNotifyTaskSize = 0
+2023-12-14 00:17:02,822 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:17:08,869 INFO [long-pulling] client count 4
+2023-12-14 00:17:02,961 INFO [long-pulling] client count 4
 
-2023-12-13 00:17:18,871 INFO toNotifyTaskSize = 0
+2023-12-14 00:17:12,824 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:17:18,871 INFO [long-pulling] client count 4
+2023-12-14 00:17:12,824 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:17:18,871 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:17:12,963 INFO [long-pulling] client count 4
 
-2023-12-13 00:17:28,873 INFO [long-pulling] client count 4
+2023-12-14 00:17:22,826 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:17:28,873 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:17:22,826 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:17:28,873 INFO toNotifyTaskSize = 0
+2023-12-14 00:17:22,963 INFO [long-pulling] client count 4
 
-2023-12-13 00:17:38,875 INFO toNotifyTaskSize = 0
+2023-12-14 00:17:32,828 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:17:38,875 INFO [long-pulling] client count 4
+2023-12-14 00:17:32,828 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:17:38,875 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:17:32,964 INFO [long-pulling] client count 4
 
-2023-12-13 00:17:48,878 INFO toNotifyTaskSize = 0
+2023-12-14 00:17:42,831 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:17:48,878 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:17:42,831 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:17:48,878 INFO [long-pulling] client count 4
+2023-12-14 00:17:42,965 INFO [long-pulling] client count 4
 
-2023-12-13 00:17:58,881 INFO [long-pulling] client count 4
+2023-12-14 00:17:52,832 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:17:58,881 INFO toNotifyTaskSize = 0
+2023-12-14 00:17:52,832 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:17:58,881 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:17:52,966 INFO [long-pulling] client count 4
 
-2023-12-13 00:18:08,883 INFO [long-pulling] client count 4
+2023-12-14 00:18:02,835 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:18:08,883 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:18:02,835 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:18:08,883 INFO toNotifyTaskSize = 0
+2023-12-14 00:18:02,968 INFO [long-pulling] client count 4
 
-2023-12-13 00:18:18,884 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:18:12,838 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:18:18,884 INFO toNotifyTaskSize = 0
+2023-12-14 00:18:12,838 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:18:18,884 INFO [long-pulling] client count 4
+2023-12-14 00:18:12,969 INFO [long-pulling] client count 4
 
-2023-12-13 00:18:28,887 INFO [long-pulling] client count 4
+2023-12-14 00:18:22,839 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:18:28,887 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:18:22,839 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:18:28,887 INFO toNotifyTaskSize = 0
+2023-12-14 00:18:22,972 INFO [long-pulling] client count 4
 
-2023-12-13 00:18:38,888 INFO [long-pulling] client count 4
+2023-12-14 00:18:32,842 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:18:38,888 INFO toNotifyTaskSize = 0
+2023-12-14 00:18:32,842 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:18:38,888 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:18:32,975 INFO [long-pulling] client count 4
 
-2023-12-13 00:18:48,891 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:18:42,845 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:18:48,891 INFO [long-pulling] client count 4
+2023-12-14 00:18:42,845 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:18:48,891 INFO toNotifyTaskSize = 0
+2023-12-14 00:18:42,976 INFO [long-pulling] client count 4
 
-2023-12-13 00:18:58,891 INFO [long-pulling] client count 4
+2023-12-14 00:18:52,848 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:18:58,891 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:18:52,848 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:18:58,891 INFO toNotifyTaskSize = 0
+2023-12-14 00:18:52,978 INFO [long-pulling] client count 4
 
-2023-12-13 00:19:08,891 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:19:02,850 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:19:08,891 INFO toNotifyTaskSize = 0
+2023-12-14 00:19:02,850 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:19:08,891 INFO [long-pulling] client count 4
+2023-12-14 00:19:02,979 INFO [long-pulling] client count 4
 
-2023-12-13 00:19:18,894 INFO [long-pulling] client count 4
+2023-12-14 00:19:12,854 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:19:18,894 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:19:12,854 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:19:18,894 INFO toNotifyTaskSize = 0
+2023-12-14 00:19:12,981 INFO [long-pulling] client count 4
 
-2023-12-13 00:19:28,896 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:19:22,858 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:19:28,896 INFO toNotifyTaskSize = 0
+2023-12-14 00:19:22,858 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:19:28,896 INFO [long-pulling] client count 4
+2023-12-14 00:19:22,984 INFO [long-pulling] client count 4
 
-2023-12-13 00:19:38,897 INFO [long-pulling] client count 4
+2023-12-14 00:19:32,859 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:19:38,897 INFO toNotifyTaskSize = 0
+2023-12-14 00:19:32,859 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:19:38,897 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:19:32,984 INFO [long-pulling] client count 4
 
-2023-12-13 00:19:48,900 INFO [long-pulling] client count 4
+2023-12-14 00:19:42,861 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:19:48,900 INFO toNotifyTaskSize = 0
+2023-12-14 00:19:42,861 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:19:48,900 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:19:42,984 INFO [long-pulling] client count 4
 
-2023-12-13 00:19:58,900 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:19:52,862 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:19:58,900 INFO [long-pulling] client count 4
+2023-12-14 00:19:52,862 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:19:58,900 INFO toNotifyTaskSize = 0
+2023-12-14 00:19:52,988 INFO [long-pulling] client count 4
 
-2023-12-13 00:20:08,901 INFO [long-pulling] client count 4
+2023-12-14 00:20:02,865 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:20:08,901 INFO toNotifyTaskSize = 0
+2023-12-14 00:20:02,865 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:20:08,901 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:20:02,990 INFO [long-pulling] client count 4
 
-2023-12-13 00:20:18,904 INFO [long-pulling] client count 4
+2023-12-14 00:20:12,870 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:20:18,904 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:20:12,870 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:20:18,904 INFO toNotifyTaskSize = 0
+2023-12-14 00:20:12,991 INFO [long-pulling] client count 4
 
-2023-12-13 00:20:28,907 INFO [long-pulling] client count 4
+2023-12-14 00:20:22,871 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:20:28,907 INFO toNotifyTaskSize = 0
+2023-12-14 00:20:22,871 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:20:28,907 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:20:22,993 INFO [long-pulling] client count 4
 
-2023-12-13 00:20:38,907 INFO [long-pulling] client count 4
+2023-12-14 00:20:32,872 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:20:38,907 INFO toNotifyTaskSize = 0
+2023-12-14 00:20:32,872 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:20:38,907 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:20:32,995 INFO [long-pulling] client count 4
 
-2023-12-13 00:20:48,908 INFO [long-pulling] client count 4
+2023-12-14 00:20:42,875 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:20:48,908 INFO toNotifyTaskSize = 0
+2023-12-14 00:20:42,875 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:20:48,908 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:20:42,996 INFO [long-pulling] client count 4
 
-2023-12-13 00:20:58,911 INFO [long-pulling] client count 4
+2023-12-14 00:20:52,876 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:20:58,911 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:20:52,876 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:20:58,911 INFO toNotifyTaskSize = 0
+2023-12-14 00:20:52,998 INFO [long-pulling] client count 4
 
-2023-12-13 00:21:08,913 INFO toNotifyTaskSize = 0
+2023-12-14 00:21:02,877 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:21:08,913 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:21:02,877 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:21:08,913 INFO [long-pulling] client count 4
+2023-12-14 00:21:02,999 INFO [long-pulling] client count 4
 
-2023-12-13 00:21:18,916 INFO [long-pulling] client count 4
+2023-12-14 00:21:12,883 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:21:18,916 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:21:12,883 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:21:18,916 INFO toNotifyTaskSize = 0
+2023-12-14 00:21:13,000 INFO [long-pulling] client count 4
 
-2023-12-13 00:21:28,918 INFO toNotifyTaskSize = 0
+2023-12-14 00:21:22,886 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:21:28,918 INFO [long-pulling] client count 4
+2023-12-14 00:21:22,886 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:21:28,918 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:21:23,004 INFO [long-pulling] client count 4
 
-2023-12-13 00:21:38,920 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:21:32,889 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:21:38,920 INFO toNotifyTaskSize = 0
+2023-12-14 00:21:32,889 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:21:38,920 INFO [long-pulling] client count 4
+2023-12-14 00:21:33,005 INFO [long-pulling] client count 4
 
-2023-12-13 00:21:48,922 INFO toNotifyTaskSize = 0
+2023-12-14 00:21:42,889 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:21:48,922 INFO [long-pulling] client count 4
+2023-12-14 00:21:42,889 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:21:48,922 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:21:43,008 INFO [long-pulling] client count 4
 
-2023-12-13 00:21:58,923 INFO [long-pulling] client count 4
+2023-12-14 00:21:52,892 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:21:58,923 INFO toNotifyTaskSize = 0
+2023-12-14 00:21:52,892 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:21:58,923 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:21:53,009 INFO [long-pulling] client count 4
 
-2023-12-13 00:22:08,924 INFO toNotifyTaskSize = 0
+2023-12-14 00:22:02,894 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:22:08,924 INFO [long-pulling] client count 4
+2023-12-14 00:22:02,894 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:22:08,924 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:22:03,012 INFO [long-pulling] client count 4
 
-2023-12-13 00:22:18,928 INFO [long-pulling] client count 4
+2023-12-14 00:22:12,894 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:22:18,928 INFO toNotifyTaskSize = 0
+2023-12-14 00:22:12,894 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:22:18,928 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:22:13,014 INFO [long-pulling] client count 4
 
-2023-12-13 00:22:28,930 INFO toNotifyTaskSize = 0
+2023-12-14 00:22:22,895 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:22:28,930 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:22:22,895 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:22:28,930 INFO [long-pulling] client count 4
+2023-12-14 00:22:23,017 INFO [long-pulling] client count 4
 
-2023-12-13 00:22:38,932 INFO [long-pulling] client count 4
+2023-12-14 00:22:32,897 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:22:38,932 INFO toNotifyTaskSize = 0
+2023-12-14 00:22:32,897 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:22:38,932 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:22:33,021 INFO [long-pulling] client count 4
 
-2023-12-13 00:22:48,934 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:22:42,899 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:22:48,934 INFO [long-pulling] client count 4
+2023-12-14 00:22:42,899 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:22:48,934 INFO toNotifyTaskSize = 0
+2023-12-14 00:22:43,024 INFO [long-pulling] client count 4
 
-2023-12-13 00:22:58,936 INFO [long-pulling] client count 4
+2023-12-14 00:22:52,902 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:22:58,936 INFO toNotifyTaskSize = 0
+2023-12-14 00:22:52,902 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:22:58,936 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:22:53,024 INFO [long-pulling] client count 4
 
-2023-12-13 00:23:08,937 INFO [long-pulling] client count 4
+2023-12-14 00:23:02,903 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:23:08,937 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:23:02,903 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:23:08,937 INFO toNotifyTaskSize = 0
+2023-12-14 00:23:03,028 INFO [long-pulling] client count 4
 
-2023-12-13 00:23:18,938 INFO [long-pulling] client count 4
+2023-12-14 00:23:12,904 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:23:18,938 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:23:12,904 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:23:18,938 INFO toNotifyTaskSize = 0
+2023-12-14 00:23:13,030 INFO [long-pulling] client count 4
 
-2023-12-13 00:23:28,940 INFO [long-pulling] client count 4
+2023-12-14 00:23:22,905 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:23:28,940 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:23:22,905 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:23:28,940 INFO toNotifyTaskSize = 0
+2023-12-14 00:23:23,034 INFO [long-pulling] client count 4
 
-2023-12-13 00:23:38,942 INFO [long-pulling] client count 4
+2023-12-14 00:23:32,907 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:23:38,942 INFO toNotifyTaskSize = 0
+2023-12-14 00:23:32,907 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:23:38,942 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:23:33,038 INFO [long-pulling] client count 4
 
-2023-12-13 00:23:48,945 INFO [long-pulling] client count 4
+2023-12-14 00:23:42,907 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:23:48,945 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:23:42,907 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:23:48,945 INFO toNotifyTaskSize = 0
+2023-12-14 00:23:43,040 INFO [long-pulling] client count 4
 
-2023-12-13 00:23:58,948 INFO [long-pulling] client count 4
+2023-12-14 00:23:52,910 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:23:58,948 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:23:52,910 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:23:58,948 INFO toNotifyTaskSize = 0
+2023-12-14 00:23:53,043 INFO [long-pulling] client count 4
 
-2023-12-13 00:24:08,949 INFO [long-pulling] client count 4
+2023-12-14 00:24:02,912 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:24:08,949 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:24:02,912 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:24:08,949 INFO toNotifyTaskSize = 0
+2023-12-14 00:24:03,047 INFO [long-pulling] client count 4
 
-2023-12-13 00:24:18,949 INFO [long-pulling] client count 4
+2023-12-14 00:24:12,915 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:24:18,949 INFO toNotifyTaskSize = 0
+2023-12-14 00:24:12,915 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:24:18,949 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:24:13,049 INFO [long-pulling] client count 4
 
-2023-12-13 00:24:28,952 INFO [long-pulling] client count 4
+2023-12-14 00:24:22,919 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:24:28,952 INFO toNotifyTaskSize = 0
+2023-12-14 00:24:22,919 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:24:28,952 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:24:23,053 INFO [long-pulling] client count 4
 
-2023-12-13 00:24:38,953 INFO toNotifyTaskSize = 0
+2023-12-14 00:24:32,921 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:24:38,953 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:24:32,921 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:24:38,953 INFO [long-pulling] client count 4
+2023-12-14 00:24:33,055 INFO [long-pulling] client count 4
 
-2023-12-13 00:24:48,956 INFO toNotifyTaskSize = 0
+2023-12-14 00:24:42,922 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:24:48,956 INFO [long-pulling] client count 4
+2023-12-14 00:24:42,922 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:24:48,956 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:24:43,059 INFO [long-pulling] client count 4
 
-2023-12-13 00:24:58,957 INFO [long-pulling] client count 4
+2023-12-14 00:24:52,925 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:24:58,957 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:24:52,925 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:24:58,957 INFO toNotifyTaskSize = 0
+2023-12-14 00:24:53,060 INFO [long-pulling] client count 4
 
-2023-12-13 00:25:08,959 INFO [long-pulling] client count 4
+2023-12-14 00:25:02,926 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:25:08,959 INFO toNotifyTaskSize = 0
+2023-12-14 00:25:02,926 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:25:08,959 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:25:03,062 INFO [long-pulling] client count 4
 
-2023-12-13 00:25:18,960 INFO [long-pulling] client count 4
+2023-12-14 00:25:12,928 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:25:18,960 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:25:12,928 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:25:18,960 INFO toNotifyTaskSize = 0
+2023-12-14 00:25:13,063 INFO [long-pulling] client count 4
 
-2023-12-13 00:25:28,962 INFO [long-pulling] client count 4
+2023-12-14 00:25:22,932 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:25:28,962 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:25:22,932 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:25:28,962 INFO toNotifyTaskSize = 0
+2023-12-14 00:25:23,066 INFO [long-pulling] client count 4
 
-2023-12-13 00:25:38,962 INFO [long-pulling] client count 4
+2023-12-14 00:25:32,932 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:25:38,962 INFO toNotifyTaskSize = 0
+2023-12-14 00:25:32,932 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:25:38,962 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:25:33,070 INFO [long-pulling] client count 4
 
-2023-12-13 00:25:48,964 INFO [long-pulling] client count 4
+2023-12-14 00:25:42,934 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:25:48,964 INFO toNotifyTaskSize = 0
+2023-12-14 00:25:42,934 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:25:48,964 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:25:43,073 INFO [long-pulling] client count 4
 
-2023-12-13 00:25:58,964 INFO [long-pulling] client count 4
+2023-12-14 00:25:52,935 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:25:58,964 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:25:52,935 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:25:58,964 INFO toNotifyTaskSize = 0
+2023-12-14 00:25:53,074 INFO [long-pulling] client count 4
 
-2023-12-13 00:26:08,966 INFO [long-pulling] client count 4
+2023-12-14 00:26:02,937 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:26:08,966 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:26:02,937 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:26:08,966 INFO toNotifyTaskSize = 0
+2023-12-14 00:26:03,074 INFO [long-pulling] client count 4
 
-2023-12-13 00:26:18,969 INFO [long-pulling] client count 4
+2023-12-14 00:26:12,941 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:26:18,969 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:26:12,941 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:26:18,969 INFO toNotifyTaskSize = 0
+2023-12-14 00:26:13,078 INFO [long-pulling] client count 4
 
-2023-12-13 00:26:28,971 INFO toNotifyTaskSize = 0
+2023-12-14 00:26:22,942 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:26:28,971 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:26:22,942 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:26:28,971 INFO [long-pulling] client count 4
+2023-12-14 00:26:23,078 INFO [long-pulling] client count 4
 
-2023-12-13 00:26:38,973 INFO [long-pulling] client count 4
+2023-12-14 00:26:32,945 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:26:38,973 INFO toNotifyTaskSize = 0
+2023-12-14 00:26:32,945 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:26:38,973 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:26:33,078 INFO [long-pulling] client count 4
 
-2023-12-13 00:26:48,976 INFO toNotifyTaskSize = 0
+2023-12-14 00:26:42,946 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:26:48,976 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:26:42,946 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:26:48,976 INFO [long-pulling] client count 4
+2023-12-14 00:26:43,082 INFO [long-pulling] client count 4
 
-2023-12-13 00:26:58,989 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:26:52,949 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:26:58,990 INFO toNotifyTaskSize = 0
+2023-12-14 00:26:52,949 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:26:58,998 INFO [long-pulling] client count 4
+2023-12-14 00:26:53,082 INFO [long-pulling] client count 4
 
-2023-12-13 00:27:08,991 INFO toNotifyTaskSize = 0
+2023-12-14 00:27:02,952 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:27:08,991 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:27:02,952 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:27:09,002 INFO [long-pulling] client count 4
+2023-12-14 00:27:03,086 INFO [long-pulling] client count 4
 
-2023-12-13 00:27:18,992 INFO toNotifyTaskSize = 0
+2023-12-14 00:27:12,955 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:27:18,992 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:27:12,955 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:27:19,003 INFO [long-pulling] client count 4
+2023-12-14 00:27:13,087 INFO [long-pulling] client count 4
 
-2023-12-13 00:27:28,993 INFO toNotifyTaskSize = 0
+2023-12-14 00:27:22,959 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:27:28,993 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:27:22,959 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:27:29,005 INFO [long-pulling] client count 4
+2023-12-14 00:27:23,090 INFO [long-pulling] client count 4
 
-2023-12-13 00:27:38,995 INFO toNotifyTaskSize = 0
+2023-12-14 00:27:32,961 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:27:38,995 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:27:32,961 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:27:39,006 INFO [long-pulling] client count 4
+2023-12-14 00:27:33,093 INFO [long-pulling] client count 4
 
-2023-12-13 00:27:48,998 INFO toNotifyTaskSize = 0
+2023-12-14 00:27:42,962 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:27:48,998 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:27:42,962 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:27:49,009 INFO [long-pulling] client count 4
+2023-12-14 00:27:43,093 INFO [long-pulling] client count 4
 
-2023-12-13 00:27:59,001 INFO toNotifyTaskSize = 0
+2023-12-14 00:27:52,962 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:27:59,001 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:27:52,962 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:27:59,013 INFO [long-pulling] client count 4
+2023-12-14 00:27:53,095 INFO [long-pulling] client count 4
 
-2023-12-13 00:28:09,002 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:28:02,966 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:28:09,002 INFO toNotifyTaskSize = 0
+2023-12-14 00:28:02,966 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:28:09,013 INFO [long-pulling] client count 4
+2023-12-14 00:28:03,099 INFO [long-pulling] client count 4
 
-2023-12-13 00:28:19,005 INFO toNotifyTaskSize = 0
+2023-12-14 00:28:12,970 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:28:19,005 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:28:12,970 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:28:19,016 INFO [long-pulling] client count 4
+2023-12-14 00:28:13,100 INFO [long-pulling] client count 4
 
-2023-12-13 00:28:29,007 INFO toNotifyTaskSize = 0
+2023-12-14 00:28:22,971 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:28:29,007 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:28:22,971 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:28:29,018 INFO [long-pulling] client count 4
+2023-12-14 00:28:23,104 INFO [long-pulling] client count 4
 
-2023-12-13 00:28:39,010 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:28:32,972 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:28:39,010 INFO toNotifyTaskSize = 0
+2023-12-14 00:28:32,972 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:28:39,022 INFO [long-pulling] client count 4
+2023-12-14 00:28:33,105 INFO [long-pulling] client count 4
 
-2023-12-13 00:28:49,011 INFO toNotifyTaskSize = 0
+2023-12-14 00:28:42,976 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:28:49,011 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:28:42,976 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:28:49,024 INFO [long-pulling] client count 4
+2023-12-14 00:28:43,106 INFO [long-pulling] client count 4
 
-2023-12-13 00:28:59,012 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:28:52,978 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:28:59,012 INFO toNotifyTaskSize = 0
+2023-12-14 00:28:52,978 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:28:59,027 INFO [long-pulling] client count 4
+2023-12-14 00:28:53,107 INFO [long-pulling] client count 4
 
-2023-12-13 00:29:09,013 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:29:02,982 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:29:09,013 INFO toNotifyTaskSize = 0
+2023-12-14 00:29:02,982 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:29:09,028 INFO [long-pulling] client count 4
+2023-12-14 00:29:03,109 INFO [long-pulling] client count 4
 
-2023-12-13 00:29:19,014 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:29:12,983 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:29:19,014 INFO toNotifyTaskSize = 0
+2023-12-14 00:29:12,983 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:29:19,029 INFO [long-pulling] client count 4
+2023-12-14 00:29:13,110 INFO [long-pulling] client count 4
 
-2023-12-13 00:29:29,017 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:29:22,984 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:29:29,017 INFO toNotifyTaskSize = 0
+2023-12-14 00:29:22,984 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:29:29,032 INFO [long-pulling] client count 4
+2023-12-14 00:29:23,111 INFO [long-pulling] client count 4
 
-2023-12-13 00:29:39,018 INFO toNotifyTaskSize = 0
+2023-12-14 00:29:32,984 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:29:39,018 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:29:32,984 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:29:39,033 INFO [long-pulling] client count 4
+2023-12-14 00:29:33,112 INFO [long-pulling] client count 4
 
-2023-12-13 00:29:49,019 INFO toNotifyTaskSize = 0
+2023-12-14 00:29:42,988 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:29:49,019 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:29:42,988 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:29:49,036 INFO [long-pulling] client count 4
+2023-12-14 00:29:43,115 INFO [long-pulling] client count 4
 
-2023-12-13 00:29:59,020 INFO toNotifyTaskSize = 0
+2023-12-14 00:29:52,991 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:29:59,020 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:29:52,991 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:29:59,038 INFO [long-pulling] client count 4
+2023-12-14 00:29:53,117 INFO [long-pulling] client count 4
 
-2023-12-13 00:30:09,022 INFO toNotifyTaskSize = 0
+2023-12-14 00:30:02,991 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:30:09,022 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:30:02,991 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:30:09,040 INFO [long-pulling] client count 4
+2023-12-14 00:30:03,121 INFO [long-pulling] client count 4
 
-2023-12-13 00:30:19,023 INFO toNotifyTaskSize = 0
+2023-12-14 00:30:12,994 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:30:19,023 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:30:12,994 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:30:19,040 INFO [long-pulling] client count 4
+2023-12-14 00:30:13,124 INFO [long-pulling] client count 4
 
-2023-12-13 00:30:29,024 INFO toNotifyTaskSize = 0
+2023-12-14 00:30:22,995 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:30:29,024 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:30:22,995 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:30:29,043 INFO [long-pulling] client count 4
+2023-12-14 00:30:23,124 INFO [long-pulling] client count 4
 
-2023-12-13 00:30:39,024 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:30:32,998 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:30:39,024 INFO toNotifyTaskSize = 0
+2023-12-14 00:30:32,998 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:30:39,046 INFO [long-pulling] client count 4
+2023-12-14 00:30:33,126 INFO [long-pulling] client count 4
 
-2023-12-13 00:30:49,025 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:30:43,000 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:30:49,025 INFO toNotifyTaskSize = 0
+2023-12-14 00:30:43,000 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:30:49,048 INFO [long-pulling] client count 4
+2023-12-14 00:30:43,128 INFO [long-pulling] client count 4
 
-2023-12-13 00:30:59,028 INFO toNotifyTaskSize = 0
+2023-12-14 00:30:53,001 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:30:59,028 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:30:53,001 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:30:59,050 INFO [long-pulling] client count 4
+2023-12-14 00:30:53,129 INFO [long-pulling] client count 4
 
-2023-12-13 00:31:09,032 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:31:03,004 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:31:09,032 INFO toNotifyTaskSize = 0
+2023-12-14 00:31:03,004 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:31:09,052 INFO [long-pulling] client count 4
+2023-12-14 00:31:03,130 INFO [long-pulling] client count 4
 
-2023-12-13 00:31:19,033 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:31:13,005 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:31:19,033 INFO toNotifyTaskSize = 0
+2023-12-14 00:31:13,005 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:31:19,055 INFO [long-pulling] client count 4
+2023-12-14 00:31:13,133 INFO [long-pulling] client count 4
 
-2023-12-13 00:31:29,033 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:31:23,006 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:31:29,033 INFO toNotifyTaskSize = 0
+2023-12-14 00:31:23,006 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:31:29,055 INFO [long-pulling] client count 4
+2023-12-14 00:31:23,136 INFO [long-pulling] client count 4
 
-2023-12-13 00:31:39,036 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:31:33,008 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:31:39,036 INFO toNotifyTaskSize = 0
+2023-12-14 00:31:33,008 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:31:39,056 INFO [long-pulling] client count 4
+2023-12-14 00:31:33,137 INFO [long-pulling] client count 4
 
-2023-12-13 00:31:49,038 INFO toNotifyTaskSize = 0
+2023-12-14 00:31:43,009 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:31:49,038 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:31:43,009 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:31:49,059 INFO [long-pulling] client count 4
+2023-12-14 00:31:43,141 INFO [long-pulling] client count 4
 
-2023-12-13 00:31:59,042 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:31:53,010 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:31:59,042 INFO toNotifyTaskSize = 0
+2023-12-14 00:31:53,010 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:31:59,062 INFO [long-pulling] client count 4
+2023-12-14 00:31:53,142 INFO [long-pulling] client count 4
 
-2023-12-13 00:32:09,043 INFO toNotifyTaskSize = 0
+2023-12-14 00:32:03,011 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:32:09,043 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:32:03,011 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:32:09,065 INFO [long-pulling] client count 4
+2023-12-14 00:32:03,145 INFO [long-pulling] client count 4
 
-2023-12-13 00:32:19,043 INFO toNotifyTaskSize = 0
+2023-12-14 00:32:13,011 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:32:19,043 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:32:13,011 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:32:19,066 INFO [long-pulling] client count 4
+2023-12-14 00:32:13,145 INFO [long-pulling] client count 4
 
-2023-12-13 00:32:29,045 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:32:23,015 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:32:29,045 INFO toNotifyTaskSize = 0
+2023-12-14 00:32:23,015 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:32:29,066 INFO [long-pulling] client count 4
+2023-12-14 00:32:23,147 INFO [long-pulling] client count 4
 
-2023-12-13 00:32:39,048 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:32:33,017 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:32:39,048 INFO toNotifyTaskSize = 0
+2023-12-14 00:32:33,017 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:32:39,068 INFO [long-pulling] client count 4
+2023-12-14 00:32:33,150 INFO [long-pulling] client count 4
 
-2023-12-13 00:32:49,049 INFO toNotifyTaskSize = 0
+2023-12-14 00:32:43,019 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:32:49,049 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:32:43,019 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:32:49,071 INFO [long-pulling] client count 4
+2023-12-14 00:32:43,150 INFO [long-pulling] client count 4
 
-2023-12-13 00:32:59,051 INFO toNotifyTaskSize = 0
+2023-12-14 00:32:53,020 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:32:59,051 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:32:53,020 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:32:59,073 INFO [long-pulling] client count 4
+2023-12-14 00:32:53,154 INFO [long-pulling] client count 4
 
-2023-12-13 00:33:09,052 INFO toNotifyTaskSize = 0
+2023-12-14 00:33:03,024 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:33:09,052 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:33:03,024 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:33:09,077 INFO [long-pulling] client count 4
+2023-12-14 00:33:03,155 INFO [long-pulling] client count 4
 
-2023-12-13 00:33:19,053 INFO toNotifyTaskSize = 0
+2023-12-14 00:33:13,026 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:33:19,053 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:33:13,026 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:33:19,077 INFO [long-pulling] client count 4
+2023-12-14 00:33:13,155 INFO [long-pulling] client count 4
 
-2023-12-13 00:33:29,057 INFO toNotifyTaskSize = 0
+2023-12-14 00:33:23,027 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:33:29,057 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:33:23,027 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:33:29,081 INFO [long-pulling] client count 4
+2023-12-14 00:33:23,156 INFO [long-pulling] client count 4
 
-2023-12-13 00:33:39,060 INFO toNotifyTaskSize = 0
+2023-12-14 00:33:33,028 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:33:39,060 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:33:33,028 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:33:39,083 INFO [long-pulling] client count 4
+2023-12-14 00:33:33,159 INFO [long-pulling] client count 4
 
-2023-12-13 00:33:49,064 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:33:43,032 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:33:49,064 INFO toNotifyTaskSize = 0
+2023-12-14 00:33:43,032 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:33:49,086 INFO [long-pulling] client count 4
+2023-12-14 00:33:43,159 INFO [long-pulling] client count 4
 
-2023-12-13 00:33:59,066 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:33:53,033 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:33:59,066 INFO toNotifyTaskSize = 0
+2023-12-14 00:33:53,033 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:33:59,088 INFO [long-pulling] client count 4
+2023-12-14 00:33:53,161 INFO [long-pulling] client count 4
 
-2023-12-13 00:34:09,066 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:34:03,035 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:34:09,066 INFO toNotifyTaskSize = 0
+2023-12-14 00:34:03,035 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:34:09,088 INFO [long-pulling] client count 4
+2023-12-14 00:34:03,165 INFO [long-pulling] client count 4
 
-2023-12-13 00:34:19,066 INFO toNotifyTaskSize = 0
+2023-12-14 00:34:13,037 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:34:19,066 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:34:13,037 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:34:19,089 INFO [long-pulling] client count 4
+2023-12-14 00:34:13,168 INFO [long-pulling] client count 4
 
-2023-12-13 00:34:29,069 INFO toNotifyTaskSize = 0
+2023-12-14 00:34:23,041 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:34:29,069 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:34:23,041 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:34:29,090 INFO [long-pulling] client count 4
+2023-12-14 00:34:23,171 INFO [long-pulling] client count 4
 
-2023-12-13 00:34:39,070 INFO toNotifyTaskSize = 0
+2023-12-14 00:34:33,045 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:34:39,070 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:34:33,045 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:34:39,093 INFO [long-pulling] client count 4
+2023-12-14 00:34:33,174 INFO [long-pulling] client count 4
 
-2023-12-13 00:34:49,072 INFO toNotifyTaskSize = 0
+2023-12-14 00:34:43,048 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:34:49,072 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:34:43,048 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:34:49,097 INFO [long-pulling] client count 4
+2023-12-14 00:34:43,176 INFO [long-pulling] client count 4
 
-2023-12-13 00:34:59,073 INFO toNotifyTaskSize = 0
+2023-12-14 00:34:53,051 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:34:59,073 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:34:53,051 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:34:59,099 INFO [long-pulling] client count 4
+2023-12-14 00:34:53,176 INFO [long-pulling] client count 4
 
-2023-12-13 00:35:09,074 INFO toNotifyTaskSize = 0
+2023-12-14 00:35:03,052 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:35:09,074 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:35:03,052 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:35:09,100 INFO [long-pulling] client count 4
+2023-12-14 00:35:03,177 INFO [long-pulling] client count 4
 
-2023-12-13 00:35:19,074 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:35:13,054 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:35:19,074 INFO toNotifyTaskSize = 0
+2023-12-14 00:35:13,054 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:35:19,101 INFO [long-pulling] client count 4
+2023-12-14 00:35:13,179 INFO [long-pulling] client count 4
 
-2023-12-13 00:35:29,076 INFO toNotifyTaskSize = 0
+2023-12-14 00:35:23,057 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:35:29,076 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:35:23,057 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:35:29,102 INFO [long-pulling] client count 4
+2023-12-14 00:35:23,179 INFO [long-pulling] client count 4
 
-2023-12-13 00:35:39,078 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:35:33,058 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:35:39,078 INFO toNotifyTaskSize = 0
+2023-12-14 00:35:33,058 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:35:39,103 INFO [long-pulling] client count 4
+2023-12-14 00:35:33,181 INFO [long-pulling] client count 4
 
-2023-12-13 00:35:49,078 INFO toNotifyTaskSize = 0
+2023-12-14 00:35:43,058 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:35:49,078 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:35:43,058 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:35:49,104 INFO [long-pulling] client count 4
+2023-12-14 00:35:43,182 INFO [long-pulling] client count 4
 
-2023-12-13 00:35:59,082 INFO toNotifyTaskSize = 0
+2023-12-14 00:35:53,060 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:35:59,082 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:35:53,060 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:35:59,107 INFO [long-pulling] client count 4
+2023-12-14 00:35:53,184 INFO [long-pulling] client count 4
 
-2023-12-13 00:36:09,084 INFO toNotifyTaskSize = 0
+2023-12-14 00:36:03,063 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:36:09,084 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:36:03,063 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:36:09,111 INFO [long-pulling] client count 4
+2023-12-14 00:36:03,185 INFO [long-pulling] client count 4
 
-2023-12-13 00:36:19,086 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:36:13,063 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:36:19,086 INFO toNotifyTaskSize = 0
+2023-12-14 00:36:13,063 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:36:19,113 INFO [long-pulling] client count 4
+2023-12-14 00:36:13,186 INFO [long-pulling] client count 4
 
-2023-12-13 00:36:29,089 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:36:23,066 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:36:29,089 INFO toNotifyTaskSize = 0
+2023-12-14 00:36:23,066 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:36:29,113 INFO [long-pulling] client count 4
+2023-12-14 00:36:23,186 INFO [long-pulling] client count 4
 
-2023-12-13 00:36:39,092 INFO toNotifyTaskSize = 0
+2023-12-14 00:36:33,068 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:36:39,092 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:36:33,068 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:36:39,114 INFO [long-pulling] client count 4
+2023-12-14 00:36:33,188 INFO [long-pulling] client count 4
 
-2023-12-13 00:36:49,094 INFO toNotifyTaskSize = 0
+2023-12-14 00:36:43,071 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:36:49,094 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:36:43,071 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:36:49,118 INFO [long-pulling] client count 4
+2023-12-14 00:36:43,191 INFO [long-pulling] client count 4
 
-2023-12-13 00:36:59,096 INFO toNotifyTaskSize = 0
+2023-12-14 00:36:53,074 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:36:59,096 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:36:53,074 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:36:59,119 INFO [long-pulling] client count 4
+2023-12-14 00:36:53,193 INFO [long-pulling] client count 4
 
-2023-12-13 00:37:09,100 INFO toNotifyTaskSize = 0
+2023-12-14 00:37:03,076 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:37:09,100 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:37:03,076 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:37:09,122 INFO [long-pulling] client count 4
+2023-12-14 00:37:03,193 INFO [long-pulling] client count 4
 
-2023-12-13 00:37:19,100 INFO toNotifyTaskSize = 0
+2023-12-14 00:37:13,078 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:37:19,100 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:37:13,078 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:37:19,124 INFO [long-pulling] client count 4
+2023-12-14 00:37:13,195 INFO [long-pulling] client count 4
 
-2023-12-13 00:37:29,103 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:37:23,080 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:37:29,103 INFO toNotifyTaskSize = 0
+2023-12-14 00:37:23,080 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:37:29,126 INFO [long-pulling] client count 4
+2023-12-14 00:37:23,196 INFO [long-pulling] client count 4
 
-2023-12-13 00:37:39,104 INFO toNotifyTaskSize = 0
+2023-12-14 00:37:33,082 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:37:39,104 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:37:33,082 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:37:39,126 INFO [long-pulling] client count 4
+2023-12-14 00:37:33,199 INFO [long-pulling] client count 4
 
-2023-12-13 00:37:49,105 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:37:43,083 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:37:49,105 INFO toNotifyTaskSize = 0
+2023-12-14 00:37:43,083 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:37:49,126 INFO [long-pulling] client count 4
+2023-12-14 00:37:43,200 INFO [long-pulling] client count 4
 
-2023-12-13 00:37:59,108 INFO toNotifyTaskSize = 0
+2023-12-14 00:37:53,086 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:37:59,108 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:37:53,086 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:37:59,127 INFO [long-pulling] client count 4
+2023-12-14 00:37:53,202 INFO [long-pulling] client count 4
 
-2023-12-13 00:38:09,109 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:38:03,087 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:38:09,109 INFO toNotifyTaskSize = 0
+2023-12-14 00:38:03,087 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:38:09,129 INFO [long-pulling] client count 4
+2023-12-14 00:38:03,205 INFO [long-pulling] client count 4
 
-2023-12-13 00:38:19,112 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:38:13,090 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:38:19,112 INFO toNotifyTaskSize = 0
+2023-12-14 00:38:13,090 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:38:19,131 INFO [long-pulling] client count 4
+2023-12-14 00:38:13,206 INFO [long-pulling] client count 4
 
-2023-12-13 00:38:29,117 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:38:23,091 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:38:29,117 INFO toNotifyTaskSize = 0
+2023-12-14 00:38:23,091 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:38:29,132 INFO [long-pulling] client count 4
+2023-12-14 00:38:23,209 INFO [long-pulling] client count 4
 
-2023-12-13 00:38:39,118 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:38:33,094 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:38:39,118 INFO toNotifyTaskSize = 0
+2023-12-14 00:38:33,094 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:38:39,133 INFO [long-pulling] client count 4
+2023-12-14 00:38:33,211 INFO [long-pulling] client count 4
 
-2023-12-13 00:38:49,121 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:38:43,096 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:38:49,121 INFO toNotifyTaskSize = 0
+2023-12-14 00:38:43,096 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:38:49,135 INFO [long-pulling] client count 4
+2023-12-14 00:38:43,211 INFO [long-pulling] client count 4
 
-2023-12-13 00:38:59,123 INFO toNotifyTaskSize = 0
+2023-12-14 00:38:53,097 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:38:59,123 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:38:53,097 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:38:59,138 INFO [long-pulling] client count 4
+2023-12-14 00:38:53,212 INFO [long-pulling] client count 4
 
-2023-12-13 00:39:09,126 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:39:03,099 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:39:09,126 INFO toNotifyTaskSize = 0
+2023-12-14 00:39:03,099 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:39:09,140 INFO [long-pulling] client count 4
+2023-12-14 00:39:03,214 INFO [long-pulling] client count 4
 
-2023-12-13 00:39:19,128 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:39:13,099 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:39:19,128 INFO toNotifyTaskSize = 0
+2023-12-14 00:39:13,099 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:39:19,143 INFO [long-pulling] client count 4
+2023-12-14 00:39:13,218 INFO [long-pulling] client count 4
 
-2023-12-13 00:39:29,131 INFO toNotifyTaskSize = 0
+2023-12-14 00:39:23,100 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:39:29,131 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:39:23,100 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:39:29,144 INFO [long-pulling] client count 4
+2023-12-14 00:39:23,221 INFO [long-pulling] client count 4
 
-2023-12-13 00:39:39,132 INFO toNotifyTaskSize = 0
+2023-12-14 00:39:33,103 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:39:39,132 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:39:33,104 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:39:39,146 INFO [long-pulling] client count 4
+2023-12-14 00:39:33,221 INFO [long-pulling] client count 4
 
-2023-12-13 00:39:49,135 INFO toNotifyTaskSize = 0
+2023-12-14 00:39:43,105 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:39:49,135 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:39:43,105 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:39:49,147 INFO [long-pulling] client count 4
+2023-12-14 00:39:43,222 INFO [long-pulling] client count 4
 
-2023-12-13 00:39:59,138 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:39:53,108 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:39:59,138 INFO toNotifyTaskSize = 0
+2023-12-14 00:39:53,108 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:39:59,149 INFO [long-pulling] client count 4
+2023-12-14 00:39:53,226 INFO [long-pulling] client count 4
 
-2023-12-13 00:40:09,139 INFO toNotifyTaskSize = 0
+2023-12-14 00:40:03,109 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:40:09,139 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:40:03,109 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:40:09,152 INFO [long-pulling] client count 4
+2023-12-14 00:40:03,230 INFO [long-pulling] client count 4
 
-2023-12-13 00:40:19,141 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:40:13,112 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:40:19,141 INFO toNotifyTaskSize = 0
+2023-12-14 00:40:13,112 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:40:19,155 INFO [long-pulling] client count 4
+2023-12-14 00:40:13,233 INFO [long-pulling] client count 4
 
-2023-12-13 00:40:29,142 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:40:23,115 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:40:29,142 INFO toNotifyTaskSize = 0
+2023-12-14 00:40:23,115 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:40:29,157 INFO [long-pulling] client count 4
+2023-12-14 00:40:23,233 INFO [long-pulling] client count 4
 
-2023-12-13 00:40:39,143 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:40:33,116 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:40:39,143 INFO toNotifyTaskSize = 0
+2023-12-14 00:40:33,116 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:40:39,158 INFO [long-pulling] client count 4
+2023-12-14 00:40:33,236 INFO [long-pulling] client count 4
 
-2023-12-13 00:40:49,144 INFO toNotifyTaskSize = 0
+2023-12-14 00:40:43,117 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:40:49,144 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:40:43,117 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:40:49,161 INFO [long-pulling] client count 4
+2023-12-14 00:40:43,237 INFO [long-pulling] client count 4
 
-2023-12-13 00:40:59,146 INFO toNotifyTaskSize = 0
+2023-12-14 00:40:53,117 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:40:59,146 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:40:53,117 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:40:59,161 INFO [long-pulling] client count 4
+2023-12-14 00:40:53,240 INFO [long-pulling] client count 4
 
-2023-12-13 00:41:09,150 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:41:03,121 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:41:09,150 INFO toNotifyTaskSize = 0
+2023-12-14 00:41:03,121 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:41:09,164 INFO [long-pulling] client count 3
+2023-12-14 00:41:03,243 INFO [long-pulling] client count 4
 
-2023-12-13 00:41:19,150 INFO toNotifyTaskSize = 0
+2023-12-14 00:41:13,121 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:41:19,150 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:41:13,121 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:41:19,165 INFO [long-pulling] client count 4
+2023-12-14 00:41:13,245 INFO [long-pulling] client count 4
 
-2023-12-13 00:41:29,153 INFO toNotifyTaskSize = 0
+2023-12-14 00:41:23,124 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:41:29,153 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:41:23,124 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:41:29,167 INFO [long-pulling] client count 4
+2023-12-14 00:41:23,245 INFO [long-pulling] client count 4
 
-2023-12-13 00:41:39,157 INFO toNotifyTaskSize = 0
+2023-12-14 00:41:33,128 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:41:39,157 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:41:33,128 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:41:39,169 INFO [long-pulling] client count 4
+2023-12-14 00:41:33,247 INFO [long-pulling] client count 4
 
-2023-12-13 00:41:49,161 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:41:43,130 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:41:49,161 INFO toNotifyTaskSize = 0
+2023-12-14 00:41:43,130 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:41:49,172 INFO [long-pulling] client count 4
+2023-12-14 00:41:43,247 INFO [long-pulling] client count 4
 
-2023-12-13 00:41:59,162 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:41:53,131 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:41:59,162 INFO toNotifyTaskSize = 0
+2023-12-14 00:41:53,131 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:41:59,173 INFO [long-pulling] client count 4
+2023-12-14 00:41:53,249 INFO [long-pulling] client count 4
 
-2023-12-13 00:42:09,165 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:42:03,133 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:42:09,165 INFO toNotifyTaskSize = 0
+2023-12-14 00:42:03,133 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:42:09,176 INFO [long-pulling] client count 4
+2023-12-14 00:42:03,252 INFO [long-pulling] client count 4
 
-2023-12-13 00:42:19,167 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:42:13,136 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:42:19,167 INFO toNotifyTaskSize = 0
+2023-12-14 00:42:13,136 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:42:19,179 INFO [long-pulling] client count 4
+2023-12-14 00:42:13,255 INFO [long-pulling] client count 4
 
-2023-12-13 00:42:29,170 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:42:23,138 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:42:29,170 INFO toNotifyTaskSize = 0
+2023-12-14 00:42:23,138 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:42:29,182 INFO [long-pulling] client count 4
+2023-12-14 00:42:23,258 INFO [long-pulling] client count 4
 
-2023-12-13 00:42:39,170 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:42:33,141 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:42:39,170 INFO toNotifyTaskSize = 0
+2023-12-14 00:42:33,141 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:42:39,183 INFO [long-pulling] client count 4
+2023-12-14 00:42:33,260 INFO [long-pulling] client count 4
 
-2023-12-13 00:42:49,172 INFO toNotifyTaskSize = 0
+2023-12-14 00:42:43,144 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:42:49,172 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:42:43,144 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:42:49,184 INFO [long-pulling] client count 4
+2023-12-14 00:42:43,263 INFO [long-pulling] client count 4
 
-2023-12-13 00:42:59,175 INFO toNotifyTaskSize = 0
+2023-12-14 00:42:53,147 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:42:59,175 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:42:53,147 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:42:59,187 INFO [long-pulling] client count 4
+2023-12-14 00:42:53,266 INFO [long-pulling] client count 4
 
-2023-12-13 00:43:09,176 INFO toNotifyTaskSize = 0
+2023-12-14 00:43:03,151 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:43:09,176 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:43:03,151 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:43:09,188 INFO [long-pulling] client count 4
+2023-12-14 00:43:03,269 INFO [long-pulling] client count 4
 
-2023-12-13 00:43:19,177 INFO toNotifyTaskSize = 0
+2023-12-14 00:43:13,154 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:43:19,177 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:43:13,154 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:43:19,188 INFO [long-pulling] client count 4
+2023-12-14 00:43:13,270 INFO [long-pulling] client count 4
 
-2023-12-13 00:43:29,178 INFO toNotifyTaskSize = 0
+2023-12-14 00:43:23,158 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:43:29,178 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:43:23,158 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:43:29,188 INFO [long-pulling] client count 4
+2023-12-14 00:43:23,272 INFO [long-pulling] client count 4
 
-2023-12-13 00:43:39,181 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:43:33,159 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:43:39,181 INFO toNotifyTaskSize = 0
+2023-12-14 00:43:33,159 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:43:39,189 INFO [long-pulling] client count 4
+2023-12-14 00:43:33,275 INFO [long-pulling] client count 4
 
-2023-12-13 00:43:49,182 INFO toNotifyTaskSize = 0
+2023-12-14 00:43:43,163 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:43:49,182 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:43:43,163 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:43:49,192 INFO [long-pulling] client count 4
+2023-12-14 00:43:43,275 INFO [long-pulling] client count 4
 
-2023-12-13 00:43:59,183 INFO toNotifyTaskSize = 0
+2023-12-14 00:43:53,163 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:43:59,183 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:43:53,163 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:43:59,194 INFO [long-pulling] client count 4
+2023-12-14 00:43:53,278 INFO [long-pulling] client count 4
 
-2023-12-13 00:44:09,186 INFO toNotifyTaskSize = 0
+2023-12-14 00:44:03,164 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:44:09,186 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:44:03,164 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:44:09,195 INFO [long-pulling] client count 4
+2023-12-14 00:44:03,279 INFO [long-pulling] client count 4
 
-2023-12-13 00:44:19,189 INFO toNotifyTaskSize = 0
+2023-12-14 00:44:13,165 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:44:19,189 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:44:13,165 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:44:19,196 INFO [long-pulling] client count 4
+2023-12-14 00:44:13,280 INFO [long-pulling] client count 4
 
-2023-12-13 00:44:29,193 INFO toNotifyTaskSize = 0
+2023-12-14 00:44:23,166 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:44:29,193 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:44:23,166 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:44:29,196 INFO [long-pulling] client count 4
+2023-12-14 00:44:23,282 INFO [long-pulling] client count 4
 
-2023-12-13 00:44:39,195 INFO toNotifyTaskSize = 0
+2023-12-14 00:44:33,168 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:44:39,195 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:44:33,168 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:44:39,199 INFO [long-pulling] client count 4
+2023-12-14 00:44:33,284 INFO [long-pulling] client count 4
 
-2023-12-13 00:44:49,196 INFO toNotifyTaskSize = 0
+2023-12-14 00:44:43,170 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:44:49,196 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:44:43,170 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:44:49,200 INFO [long-pulling] client count 4
+2023-12-14 00:44:43,286 INFO [long-pulling] client count 4
 
-2023-12-13 00:44:59,199 INFO toNotifyTaskSize = 0
+2023-12-14 00:44:53,171 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:44:59,199 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:44:53,171 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:44:59,203 INFO [long-pulling] client count 4
+2023-12-14 00:44:53,289 INFO [long-pulling] client count 4
 
-2023-12-13 00:45:09,200 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:45:03,174 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:45:09,200 INFO toNotifyTaskSize = 0
+2023-12-14 00:45:03,174 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:45:09,207 INFO [long-pulling] client count 4
+2023-12-14 00:45:03,292 INFO [long-pulling] client count 4
 
-2023-12-13 00:45:19,203 INFO toNotifyTaskSize = 0
+2023-12-14 00:45:13,176 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:45:19,203 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:45:13,176 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:45:19,210 INFO [long-pulling] client count 4
+2023-12-14 00:45:13,293 INFO [long-pulling] client count 4
 
-2023-12-13 00:45:29,203 INFO toNotifyTaskSize = 0
+2023-12-14 00:45:23,178 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:45:29,203 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:45:23,178 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:45:29,211 INFO [long-pulling] client count 4
+2023-12-14 00:45:23,293 INFO [long-pulling] client count 4
 
-2023-12-13 00:45:39,203 INFO toNotifyTaskSize = 0
+2023-12-14 00:45:33,181 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:45:39,203 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:45:33,181 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:45:39,215 INFO [long-pulling] client count 4
+2023-12-14 00:45:33,294 INFO [long-pulling] client count 4
 
-2023-12-13 00:45:49,204 INFO toNotifyTaskSize = 0
+2023-12-14 00:45:43,184 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:45:49,204 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:45:43,184 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:45:49,217 INFO [long-pulling] client count 4
+2023-12-14 00:45:43,296 INFO [long-pulling] client count 4
 
-2023-12-13 00:45:59,205 INFO toNotifyTaskSize = 0
+2023-12-14 00:45:53,184 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:45:59,205 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:45:53,184 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:45:59,220 INFO [long-pulling] client count 4
+2023-12-14 00:45:53,297 INFO [long-pulling] client count 4
 
-2023-12-13 00:46:09,208 INFO toNotifyTaskSize = 0
+2023-12-14 00:46:03,186 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:46:09,208 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:46:03,186 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:46:09,223 INFO [long-pulling] client count 4
+2023-12-14 00:46:03,299 INFO [long-pulling] client count 4
 
-2023-12-13 00:46:19,210 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:46:13,189 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:46:19,210 INFO toNotifyTaskSize = 0
+2023-12-14 00:46:13,189 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:46:19,225 INFO [long-pulling] client count 4
+2023-12-14 00:46:13,301 INFO [long-pulling] client count 4
 
-2023-12-13 00:46:29,211 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:46:23,191 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:46:29,211 INFO toNotifyTaskSize = 0
+2023-12-14 00:46:23,191 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:46:29,227 INFO [long-pulling] client count 4
+2023-12-14 00:46:23,304 INFO [long-pulling] client count 4
 
-2023-12-13 00:46:39,214 INFO toNotifyTaskSize = 0
+2023-12-14 00:46:33,192 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:46:39,214 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:46:33,192 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:46:39,230 INFO [long-pulling] client count 4
+2023-12-14 00:46:33,308 INFO [long-pulling] client count 4
 
-2023-12-13 00:46:49,215 INFO toNotifyTaskSize = 0
+2023-12-14 00:46:43,193 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:46:49,215 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:46:43,193 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:46:49,231 INFO [long-pulling] client count 4
+2023-12-14 00:46:43,310 INFO [long-pulling] client count 4
 
-2023-12-13 00:46:59,218 INFO toNotifyTaskSize = 0
+2023-12-14 00:46:53,195 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:46:59,218 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:46:53,195 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:46:59,233 INFO [long-pulling] client count 4
+2023-12-14 00:46:53,312 INFO [long-pulling] client count 4
 
-2023-12-13 00:47:09,220 INFO toNotifyTaskSize = 0
+2023-12-14 00:47:03,196 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:47:09,220 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:47:03,196 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:47:09,235 INFO [long-pulling] client count 4
+2023-12-14 00:47:03,312 INFO [long-pulling] client count 4
 
-2023-12-13 00:47:19,223 INFO toNotifyTaskSize = 0
+2023-12-14 00:47:13,199 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:47:19,223 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:47:13,199 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:47:19,236 INFO [long-pulling] client count 4
+2023-12-14 00:47:13,314 INFO [long-pulling] client count 4
 
-2023-12-13 00:47:29,225 INFO toNotifyTaskSize = 0
+2023-12-14 00:47:23,202 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:47:29,225 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:47:23,202 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:47:29,238 INFO [long-pulling] client count 4
+2023-12-14 00:47:23,315 INFO [long-pulling] client count 4
 
-2023-12-13 00:47:39,229 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:47:33,203 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:47:39,229 INFO toNotifyTaskSize = 0
+2023-12-14 00:47:33,203 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:47:39,238 INFO [long-pulling] client count 4
+2023-12-14 00:47:33,317 INFO [long-pulling] client count 4
 
-2023-12-13 00:47:49,230 INFO toNotifyTaskSize = 0
+2023-12-14 00:47:43,206 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:47:49,230 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:47:43,206 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:47:49,242 INFO [long-pulling] client count 4
+2023-12-14 00:47:43,318 INFO [long-pulling] client count 4
 
-2023-12-13 00:47:59,233 INFO toNotifyTaskSize = 0
+2023-12-14 00:47:53,207 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:47:59,233 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:47:53,207 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:47:59,244 INFO [long-pulling] client count 4
+2023-12-14 00:47:53,320 INFO [long-pulling] client count 4
 
-2023-12-13 00:48:09,235 INFO toNotifyTaskSize = 0
+2023-12-14 00:48:03,207 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:48:09,235 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:48:03,207 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:48:09,247 INFO [long-pulling] client count 4
+2023-12-14 00:48:03,323 INFO [long-pulling] client count 4
 
-2023-12-13 00:48:19,236 INFO toNotifyTaskSize = 0
+2023-12-14 00:48:13,210 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:48:19,236 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:48:13,210 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:48:19,247 INFO [long-pulling] client count 4
+2023-12-14 00:48:13,347 INFO [long-pulling] client count 4
 
-2023-12-13 00:48:29,240 INFO toNotifyTaskSize = 0
+2023-12-14 00:48:23,213 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:48:29,240 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:48:23,213 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:48:29,247 INFO [long-pulling] client count 4
+2023-12-14 00:48:23,348 INFO [long-pulling] client count 4
 
-2023-12-13 00:48:39,243 INFO toNotifyTaskSize = 0
+2023-12-14 00:48:33,216 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:48:39,243 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:48:33,216 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:48:39,250 INFO [long-pulling] client count 4
+2023-12-14 00:48:33,350 INFO [long-pulling] client count 4
 
-2023-12-13 00:48:49,245 INFO toNotifyTaskSize = 0
+2023-12-14 00:48:43,217 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:48:49,245 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:48:43,217 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:48:49,253 INFO [long-pulling] client count 4
+2023-12-14 00:48:43,352 INFO [long-pulling] client count 4
 
-2023-12-13 00:48:59,247 INFO toNotifyTaskSize = 0
+2023-12-14 00:48:53,220 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:48:59,247 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:48:53,220 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:48:59,254 INFO [long-pulling] client count 4
+2023-12-14 00:48:53,355 INFO [long-pulling] client count 4
 
-2023-12-13 00:49:09,248 INFO toNotifyTaskSize = 0
+2023-12-14 00:49:03,221 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:49:09,248 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:49:03,221 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:49:09,256 INFO [long-pulling] client count 4
+2023-12-14 00:49:03,357 INFO [long-pulling] client count 4
 
-2023-12-13 00:49:19,250 INFO toNotifyTaskSize = 0
+2023-12-14 00:49:13,223 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:49:19,250 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:49:13,223 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:49:19,258 INFO [long-pulling] client count 4
+2023-12-14 00:49:13,357 INFO [long-pulling] client count 4
 
-2023-12-13 00:49:29,252 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:49:23,226 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:49:29,252 INFO toNotifyTaskSize = 0
+2023-12-14 00:49:23,226 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:49:29,260 INFO [long-pulling] client count 4
+2023-12-14 00:49:23,359 INFO [long-pulling] client count 4
 
-2023-12-13 00:49:39,256 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:49:33,228 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:49:39,256 INFO toNotifyTaskSize = 0
+2023-12-14 00:49:33,228 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:49:39,262 INFO [long-pulling] client count 4
+2023-12-14 00:49:33,361 INFO [long-pulling] client count 4
 
-2023-12-13 00:49:49,257 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:49:43,229 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:49:49,258 INFO toNotifyTaskSize = 0
+2023-12-14 00:49:43,229 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:49:49,264 INFO [long-pulling] client count 4
+2023-12-14 00:49:43,361 INFO [long-pulling] client count 4
 
-2023-12-13 00:49:59,260 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:49:53,232 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:49:59,260 INFO toNotifyTaskSize = 0
+2023-12-14 00:49:53,232 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:49:59,268 INFO [long-pulling] client count 4
+2023-12-14 00:49:53,363 INFO [long-pulling] client count 4
 
-2023-12-13 00:50:09,263 INFO toNotifyTaskSize = 0
+2023-12-14 00:50:03,232 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:50:09,263 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:50:03,232 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:50:09,271 INFO [long-pulling] client count 4
+2023-12-14 00:50:03,364 INFO [long-pulling] client count 4
 
-2023-12-13 00:50:19,267 INFO toNotifyTaskSize = 0
+2023-12-14 00:50:13,234 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
 
-2023-12-13 00:50:19,267 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:50:13,234 INFO toNotifyTaskSize = 0
 
-2023-12-13 00:50:19,275 INFO [long-pulling] client count 4
-
-2023-12-13 00:50:29,271 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:50:29,271 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:50:29,277 INFO [long-pulling] client count 4
-
-2023-12-13 00:50:39,274 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:50:39,274 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:50:39,278 INFO [long-pulling] client count 4
-
-2023-12-13 00:50:49,277 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:50:49,277 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:50:49,281 INFO [long-pulling] client count 4
-
-2023-12-13 00:50:59,281 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:50:59,281 INFO [long-pulling] client count 4
-
-2023-12-13 00:50:59,281 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:51:09,283 INFO [long-pulling] client count 4
-
-2023-12-13 00:51:09,283 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:51:09,283 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:51:19,286 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:51:19,286 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:51:19,286 INFO [long-pulling] client count 4
-
-2023-12-13 00:51:29,288 INFO [long-pulling] client count 4
-
-2023-12-13 00:51:29,288 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:51:29,288 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:51:39,292 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:51:39,292 INFO [long-pulling] client count 4
-
-2023-12-13 00:51:39,292 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:51:49,294 INFO [long-pulling] client count 4
-
-2023-12-13 00:51:49,294 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:51:49,294 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:51:59,297 INFO [long-pulling] client count 4
-
-2023-12-13 00:51:59,297 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:51:59,297 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:52:09,301 INFO [long-pulling] client count 4
-
-2023-12-13 00:52:09,301 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:52:09,301 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:52:19,302 INFO [long-pulling] client count 4
-
-2023-12-13 00:52:19,302 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:52:19,302 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:52:29,303 INFO [long-pulling] client count 4
-
-2023-12-13 00:52:29,303 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:52:29,303 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:52:39,305 INFO [long-pulling] client count 4
-
-2023-12-13 00:52:39,305 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:52:39,305 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:52:49,306 INFO [long-pulling] client count 4
-
-2023-12-13 00:52:49,306 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:52:49,306 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:52:59,307 INFO [long-pulling] client count 4
-
-2023-12-13 00:52:59,307 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:52:59,307 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:53:09,311 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:53:09,311 INFO [long-pulling] client count 4
-
-2023-12-13 00:53:09,311 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:53:19,313 INFO [long-pulling] client count 4
-
-2023-12-13 00:53:19,313 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:53:19,313 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:53:29,317 INFO [long-pulling] client count 4
-
-2023-12-13 00:53:29,317 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:53:29,317 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:53:39,317 INFO [long-pulling] client count 4
-
-2023-12-13 00:53:39,317 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:53:39,317 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:53:49,318 INFO [long-pulling] client count 4
-
-2023-12-13 00:53:49,318 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:53:49,318 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:53:59,320 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:53:59,320 INFO [long-pulling] client count 4
-
-2023-12-13 00:53:59,320 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:54:09,321 INFO [long-pulling] client count 4
-
-2023-12-13 00:54:09,321 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:54:09,321 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:54:19,323 INFO [long-pulling] client count 4
-
-2023-12-13 00:54:19,323 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:54:19,323 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:54:29,324 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:54:29,324 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:54:29,324 INFO [long-pulling] client count 4
-
-2023-12-13 00:54:39,327 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:54:39,327 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:54:39,327 INFO [long-pulling] client count 4
-
-2023-12-13 00:54:49,330 INFO [long-pulling] client count 4
-
-2023-12-13 00:54:49,330 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:54:49,330 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:54:59,331 INFO [long-pulling] client count 4
-
-2023-12-13 00:54:59,331 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:54:59,331 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:55:09,333 INFO [long-pulling] client count 4
-
-2023-12-13 00:55:09,333 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:55:09,333 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:55:19,335 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:55:19,335 INFO [long-pulling] client count 4
-
-2023-12-13 00:55:19,335 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:55:29,338 INFO [long-pulling] client count 4
-
-2023-12-13 00:55:29,338 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:55:29,338 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:55:39,340 INFO [long-pulling] client count 4
-
-2023-12-13 00:55:39,340 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:55:39,340 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:55:49,341 INFO [long-pulling] client count 4
-
-2023-12-13 00:55:49,341 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:55:49,341 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:55:59,345 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:55:59,345 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:55:59,345 INFO [long-pulling] client count 4
-
-2023-12-13 00:56:09,346 INFO [long-pulling] client count 4
-
-2023-12-13 00:56:09,346 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:56:09,346 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:56:19,346 INFO [long-pulling] client count 4
-
-2023-12-13 00:56:19,346 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:56:19,346 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:56:29,348 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:56:29,348 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:56:29,348 INFO [long-pulling] client count 4
-
-2023-12-13 00:56:39,351 INFO [long-pulling] client count 4
-
-2023-12-13 00:56:39,351 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:56:39,351 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:56:49,352 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:56:49,352 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:56:49,352 INFO [long-pulling] client count 4
-
-2023-12-13 00:56:59,354 INFO [long-pulling] client count 4
-
-2023-12-13 00:56:59,354 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:56:59,354 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:57:09,355 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:57:09,355 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:57:09,355 INFO [long-pulling] client count 4
-
-2023-12-13 00:57:19,356 INFO [long-pulling] client count 4
-
-2023-12-13 00:57:19,356 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:57:19,356 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:57:29,357 INFO [long-pulling] client count 4
-
-2023-12-13 00:57:29,357 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:57:29,357 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:57:39,359 INFO [long-pulling] client count 4
-
-2023-12-13 00:57:39,359 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:57:39,359 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:57:49,359 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:57:49,359 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:57:49,359 INFO [long-pulling] client count 4
-
-2023-12-13 00:57:59,362 INFO [long-pulling] client count 4
-
-2023-12-13 00:57:59,362 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:57:59,362 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:58:09,364 INFO [long-pulling] client count 4
-
-2023-12-13 00:58:09,364 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:58:09,364 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:58:19,365 INFO [long-pulling] client count 4
-
-2023-12-13 00:58:19,365 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:58:19,365 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:58:29,367 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:58:29,367 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:58:29,367 INFO [long-pulling] client count 4
-
-2023-12-13 00:58:39,368 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:58:39,368 INFO [long-pulling] client count 4
-
-2023-12-13 00:58:39,368 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:58:49,371 INFO [long-pulling] client count 4
-
-2023-12-13 00:58:49,371 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:58:49,371 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:58:59,372 INFO [long-pulling] client count 4
-
-2023-12-13 00:58:59,372 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:58:59,372 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:59:09,373 INFO [long-pulling] client count 4
-
-2023-12-13 00:59:09,373 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:59:09,373 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:59:19,376 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:59:19,376 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:59:19,376 INFO [long-pulling] client count 4
-
-2023-12-13 00:59:29,377 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:59:29,377 INFO [long-pulling] client count 4
-
-2023-12-13 00:59:29,377 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:59:39,378 INFO [long-pulling] client count 4
-
-2023-12-13 00:59:39,378 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:59:39,378 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:59:49,382 INFO [long-pulling] client count 4
-
-2023-12-13 00:59:49,382 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:59:49,382 INFO toNotifyTaskSize = 0
-
-2023-12-13 00:59:59,383 INFO [long-pulling] client count 4
-
-2023-12-13 00:59:59,383 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 00:59:59,383 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:00:09,383 INFO [long-pulling] client count 4
-
-2023-12-13 01:00:09,383 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:00:09,383 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:00:19,385 INFO [long-pulling] client count 4
-
-2023-12-13 01:00:19,385 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:00:19,385 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:00:29,387 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:00:29,387 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:00:29,387 INFO [long-pulling] client count 4
-
-2023-12-13 01:00:39,389 INFO [long-pulling] client count 4
-
-2023-12-13 01:00:39,389 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:00:39,389 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:00:49,393 INFO [long-pulling] client count 4
-
-2023-12-13 01:00:49,393 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:00:49,393 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:00:59,396 INFO [long-pulling] client count 4
-
-2023-12-13 01:00:59,396 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:00:59,396 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:01:09,398 INFO [long-pulling] client count 4
-
-2023-12-13 01:01:09,398 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:01:09,398 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:01:19,402 INFO [long-pulling] client count 4
-
-2023-12-13 01:01:19,402 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:01:19,402 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:01:29,403 INFO [long-pulling] client count 4
-
-2023-12-13 01:01:29,403 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:01:29,403 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:01:39,404 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:01:39,404 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:01:39,404 INFO [long-pulling] client count 4
-
-2023-12-13 01:01:49,407 INFO [long-pulling] client count 4
-
-2023-12-13 01:01:49,407 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:01:49,407 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:01:59,409 INFO [long-pulling] client count 4
-
-2023-12-13 01:01:59,409 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:01:59,409 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:02:09,413 INFO [long-pulling] client count 4
-
-2023-12-13 01:02:09,413 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:02:09,413 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:02:19,413 INFO [long-pulling] client count 4
-
-2023-12-13 01:02:19,413 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:02:19,413 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:02:29,416 INFO [long-pulling] client count 4
-
-2023-12-13 01:02:29,416 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:02:29,416 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:02:39,416 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:02:39,416 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:02:39,416 INFO [long-pulling] client count 4
-
-2023-12-13 01:02:49,420 INFO [long-pulling] client count 4
-
-2023-12-13 01:02:49,420 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:02:49,420 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:02:59,424 INFO [long-pulling] client count 4
-
-2023-12-13 01:02:59,424 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:02:59,424 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:03:09,426 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:03:09,426 INFO [long-pulling] client count 4
-
-2023-12-13 01:03:09,426 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:03:19,426 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:03:19,426 INFO [long-pulling] client count 4
-
-2023-12-13 01:03:19,426 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:03:29,428 INFO [long-pulling] client count 4
-
-2023-12-13 01:03:29,428 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:03:29,428 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:03:39,432 INFO [long-pulling] client count 4
-
-2023-12-13 01:03:39,432 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:03:39,432 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:03:49,435 INFO [long-pulling] client count 4
-
-2023-12-13 01:03:49,435 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:03:49,435 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:03:59,437 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:03:59,437 INFO [long-pulling] client count 4
-
-2023-12-13 01:03:59,437 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:04:09,438 INFO [long-pulling] client count 4
-
-2023-12-13 01:04:09,438 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:04:09,438 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:04:19,440 INFO [long-pulling] client count 4
-
-2023-12-13 01:04:19,440 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:04:19,440 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:04:29,444 INFO [long-pulling] client count 4
-
-2023-12-13 01:04:29,444 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:04:29,444 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:04:39,446 INFO [long-pulling] client count 4
-
-2023-12-13 01:04:39,446 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:04:39,446 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:04:49,449 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:04:49,449 INFO [long-pulling] client count 4
-
-2023-12-13 01:04:49,449 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:04:59,450 INFO [long-pulling] client count 4
-
-2023-12-13 01:04:59,450 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:04:59,450 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:05:09,450 INFO [long-pulling] client count 4
-
-2023-12-13 01:05:09,450 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:05:09,450 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:05:19,453 INFO [long-pulling] client count 4
-
-2023-12-13 01:05:19,453 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:05:19,453 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:05:29,454 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:05:29,454 INFO [long-pulling] client count 4
-
-2023-12-13 01:05:29,454 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:05:39,457 INFO [long-pulling] client count 4
-
-2023-12-13 01:05:39,457 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:05:39,457 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:05:49,458 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:05:49,458 INFO [long-pulling] client count 4
-
-2023-12-13 01:05:49,458 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:05:59,461 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:05:59,461 INFO [long-pulling] client count 4
-
-2023-12-13 01:05:59,461 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:06:09,462 INFO [long-pulling] client count 4
-
-2023-12-13 01:06:09,462 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:06:09,462 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:06:19,462 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:06:19,462 INFO [long-pulling] client count 4
-
-2023-12-13 01:06:19,462 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:06:29,464 INFO [long-pulling] client count 4
-
-2023-12-13 01:06:29,464 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:06:29,464 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:06:39,464 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:06:39,464 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:06:39,464 INFO [long-pulling] client count 4
-
-2023-12-13 01:06:49,465 INFO [long-pulling] client count 4
-
-2023-12-13 01:06:49,465 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:06:49,465 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:06:59,469 INFO [long-pulling] client count 4
-
-2023-12-13 01:06:59,469 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:06:59,469 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:07:09,470 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:07:09,470 INFO [long-pulling] client count 4
-
-2023-12-13 01:07:09,470 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:07:19,474 INFO [long-pulling] client count 4
-
-2023-12-13 01:07:19,474 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:07:19,474 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:07:29,475 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:07:29,475 INFO [long-pulling] client count 4
-
-2023-12-13 01:07:29,475 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:07:39,478 INFO [long-pulling] client count 4
-
-2023-12-13 01:07:39,478 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:07:39,478 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:07:49,481 INFO [long-pulling] client count 4
-
-2023-12-13 01:07:49,481 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:07:49,481 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:07:59,485 INFO [long-pulling] client count 4
-
-2023-12-13 01:07:59,485 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:07:59,485 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:08:09,487 INFO [long-pulling] client count 4
-
-2023-12-13 01:08:09,487 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:08:09,487 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:08:19,489 INFO [long-pulling] client count 4
-
-2023-12-13 01:08:19,489 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
-
-2023-12-13 01:08:19,489 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:08:29,492 INFO [long-pulling] client count 4
-
-2023-12-13 01:08:29,492 INFO toNotifyTaskSize = 0
-
-2023-12-13 01:08:29,492 INFO groupCount = 2, subscriberClientCount = 0, subscriberCount = 0
+2023-12-14 00:50:13,364 INFO [long-pulling] client count 4
 

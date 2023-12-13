@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="887e2f32-98f2-4112-8fd0-eb940b139843" name="Changes" comment="" />
+    <list default="true" id="887e2f32-98f2-4112-8fd0-eb940b139843" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/src/main/java/example/controller/BorrowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/borrow-service/src/main/java/example/controller/BorrowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/target/classes/example/BorrowApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/target/classes/example/controller/BorrowController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/target/classes/example/entity/UserBorrowDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/target/classes/example/mapper/BorrowMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/target/classes/example/service/BorrowService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/target/classes/example/service/client/BookClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/target/classes/example/service/client/UserClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/borrow-service/target/classes/example/service/impl/BorrowServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/log/log.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/log/log1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/log/logmirror.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/seg0/c60.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/seg0/c740.dat" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/seg0/c740.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/seg0/c760.dat" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/seg0/c760.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/data/derby-data/seg0/c81.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/access_log.2023-12-13.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/access_log.2023-12-13.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-client-request.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-client-request.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-dump.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-dump.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-fatal.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-fatal.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-memory.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-memory.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-pull-check.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-pull-check.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-server.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-trace.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/config-trace.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/nacos-cluster.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/nacos-cluster.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/nacos.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/nacos.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-distro.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-distro.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-event.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-event.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-performance.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-performance.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-push.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-push.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-raft.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-raft.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-server.log" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloudStu/nacos/logs/naming-server.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +49,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2Yu1CLbeMOM26KslYfdeqsGVNcM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,11 +62,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "alibaba",
     "last_opened_file_path": "E:/code_cache/springCloudAlibabaStu/SpringCloudStu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -40,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701360522128</updated>
       <workItem from="1701360523168" duration="90000" />
+      <workItem from="1702479889930" duration="670000" />
     </task>
     <servers />
   </component>

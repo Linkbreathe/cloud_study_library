@@ -1,42 +1,30 @@
-2023-12-13 00:05:27,199 INFO [capacityManagement] start correct usage
+2023-12-14 00:05:42,258 INFO [capacityManagement] start correct usage
 
-2023-12-13 00:05:27,201 INFO [capacityManagement] end correct usage, cost: 0s
+2023-12-14 00:05:42,260 INFO [capacityManagement] end correct usage, cost: 0s
 
-2023-12-13 00:05:27,614 WARN clearConfigHistory start
+2023-12-14 00:05:42,757 WARN clearConfigHistory start
 
-2023-12-13 00:15:27,203 INFO [capacityManagement] start correct usage
+2023-12-14 00:15:42,261 INFO [capacityManagement] start correct usage
 
-2023-12-13 00:15:27,203 INFO [capacityManagement] end correct usage, cost: 0s
+2023-12-14 00:15:42,261 INFO [capacityManagement] end correct usage, cost: 0s
 
-2023-12-13 00:15:27,618 WARN clearConfigHistory start
+2023-12-14 00:15:42,761 WARN clearConfigHistory start
 
-2023-12-13 00:25:27,204 INFO [capacityManagement] start correct usage
+2023-12-14 00:25:42,264 INFO [capacityManagement] start correct usage
 
-2023-12-13 00:25:27,204 INFO [capacityManagement] end correct usage, cost: 0s
+2023-12-14 00:25:42,264 INFO [capacityManagement] end correct usage, cost: 0s
 
-2023-12-13 00:25:27,621 WARN clearConfigHistory start
+2023-12-14 00:25:42,765 WARN clearConfigHistory start
 
-2023-12-13 00:35:27,206 INFO [capacityManagement] start correct usage
+2023-12-14 00:35:42,266 INFO [capacityManagement] start correct usage
 
-2023-12-13 00:35:27,208 INFO [capacityManagement] end correct usage, cost: 0s
+2023-12-14 00:35:42,267 INFO [capacityManagement] end correct usage, cost: 0s
 
-2023-12-13 00:35:27,623 WARN clearConfigHistory start
+2023-12-14 00:35:42,765 WARN clearConfigHistory start
 
-2023-12-13 00:45:27,213 INFO [capacityManagement] start correct usage
+2023-12-14 00:45:42,270 INFO [capacityManagement] start correct usage
 
-2023-12-13 00:45:27,213 INFO [capacityManagement] end correct usage, cost: 0s
+2023-12-14 00:45:42,270 INFO [capacityManagement] end correct usage, cost: 0s
 
-2023-12-13 00:45:27,625 WARN clearConfigHistory start
-
-2023-12-13 00:55:27,217 INFO [capacityManagement] start correct usage
-
-2023-12-13 00:55:27,217 INFO [capacityManagement] end correct usage, cost: 0s
-
-2023-12-13 00:55:27,626 WARN clearConfigHistory start
-
-2023-12-13 01:05:27,219 INFO [capacityManagement] start correct usage
-
-2023-12-13 01:05:27,219 INFO [capacityManagement] end correct usage, cost: 0s
-
-2023-12-13 01:05:27,628 WARN clearConfigHistory start
+2023-12-14 00:45:42,768 WARN clearConfigHistory start
 
