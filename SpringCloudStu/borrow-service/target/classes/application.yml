@@ -24,3 +24,6 @@ spring:
     loadbalancer:
       nacos:
         enabled: true
+feign:
+  sentinel:
+    enabled: true

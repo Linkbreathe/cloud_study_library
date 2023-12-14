@@ -12,4 +12,14 @@ public class UserClientImpl implements UserClient {
         user.setName("我是替代方案");
         return user;
     }
+
+    @Override
+    public boolean userBorrow(int uid) {
+        return false;
+    }
+
+    @Override
+    public int userRemain(int uid) {
+        return 0;
+    }
 }

@@ -26,59 +26,15 @@ public class BorrowController {
         return service.getUserBorrowDetailByUid(uid);
     }
 
-    @RequestMapping("/borrow2/{uid}")
-    @SentinelResource(value = "goodFindBorrow", blockHandler = "testHello")
-    UserBorrowDetail findUserBorrows2(@PathVariable("uid") int uid) {
-        throw new RuntimeException();
-    }
+    @RequestMapping("/borrow/take/{uid}/{bid}")
+    JSONObject borrow(@PathVariable("uid") int uid,
+                      @PathVariable("bid") int bid){
+        service.doBorrow(uid, bid);
 
-    UserBorrowDetail testHello(int uid, BlockException e){
-        System.out.println(e.getClass());
-        return new UserBorrowDetail(new User(), Collections.emptyList());
-    }
-
-    @RequestMapping("/blocked")
-    JSONObject blocked(){
         JSONObject object = new JSONObject();
-        object.put("code", 403);
+        object.put("code", "200");
         object.put("success", false);
-        object.put("massage", "您的请求频率过快，请稍后再试！");
+        object.put("message", "借阅成功！");
         return object;
-    }
-
-    @RequestMapping("/test")
-    @SentinelResource(value = "test",
-            fallback = "except",    //fallback指定出现异常时的替代方案
-            blockHandler = "limitStream",
-            exceptionsToIgnore = IOException.class)  //忽略那些异常，也就是说这些异常出现时不使用替代方案
-    String test(){
-        throw new RuntimeException("HelloWorld！");
-    }
-
-    //替代方法必须和原方法返回值和参数一致，最后可以添加一个Throwable作为参数接受异常
-    String except(Throwable t){
-        return t.getMessage();
-    }
-    String limitStream(BlockException e){
-        return "limited stream";
-    }
-
-    @RequestMapping("/test_param")
-    @SentinelResource(value = "test_param",
-            blockHandler = "paramLimitStream",
-            fallback = "except_param",
-            exceptionsToIgnore = IOException.class)
-        //注意这里需要添加@SentinelResource才可以，用户资源名称就使用这里定义的资源名称
-    String test_param(@RequestParam(value = "a", required = false) Integer a,
-                            @RequestParam(value = "b", required = false) Integer b,
-                            @RequestParam(value = "c",required = false) Integer c) {
-        return "请求成功！a = "+a+", b = "+b+", c = "+c;
-    }
-
-    String except_param(Integer a, Integer b, Integer c, Throwable t){
-        return t.getMessage();
-    }
-    String paramLimitStream(BlockException e){
-        return "limited stream";
     }
 }
