@@ -3,6 +3,7 @@ package example.controller;
 import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
 import com.alibaba.fastjson.JSONObject;
+import com.test.entity.User;
 import example.entity.UserBorrowDetail;
 import example.service.BorrowService;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -12,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
 import java.io.IOException;
+import java.util.Collections;
 
 @RestController
 public class BorrowController {
@@ -25,8 +27,14 @@ public class BorrowController {
     }
 
     @RequestMapping("/borrow2/{uid}")
-    UserBorrowDetail findUserBorrows2(@PathVariable("uid") int uid){
-        return service.getUserBorrowDetailByUid(uid);
+    @SentinelResource(value = "goodFindBorrow", blockHandler = "testHello")
+    UserBorrowDetail findUserBorrows2(@PathVariable("uid") int uid) {
+        throw new RuntimeException();
+    }
+
+    UserBorrowDetail testHello(int uid, BlockException e){
+        System.out.println(e.getClass());
+        return new UserBorrowDetail(new User(), Collections.emptyList());
     }
 
     @RequestMapping("/blocked")
