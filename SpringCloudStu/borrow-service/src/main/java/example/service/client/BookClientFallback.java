@@ -2,7 +2,10 @@ package example.service.client;
 
 import com.test.entity.Book;
 import com.test.entity.User;
+import org.springframework.stereotype.Component;
 
+
+@Component
 public class BookClientFallback implements BookClient{
     @Override
     public Book getBookById(int bid) {

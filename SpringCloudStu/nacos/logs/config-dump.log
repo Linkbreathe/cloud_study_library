@@ -1,4 +1,10 @@
-2023-12-14 22:21:54,898 INFO [dump-all-ok] book-service-dev.yml+DEFAULT_GROUP, 1701865006512, length=165, md5=c0d2059462373117ebbc9e734f0c0c76
+2023-12-19 00:32:25,491 INFO [dump-task] add task. groupKey=store.mode+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27, taskKey=store.mode+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27+false+null
 
-2023-12-14 22:21:54,900 INFO [dump-all-ok] user-service-dev.yml+DEFAULT_GROUP, 1701866118701, length=165, md5=c0d2059462373117ebbc9e734f0c0c76
+2023-12-19 00:33:23,343 INFO [dump-task] add task. groupKey=store.session.mode+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27, taskKey=store.session.mode+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27+false+null
+
+2023-12-19 00:44:29,531 INFO [dump-task] add task. groupKey=store.db.url+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27, taskKey=store.db.url+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27+false+null
+
+2023-12-19 00:45:04,960 INFO [dump-task] add task. groupKey=store.db.password+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27, taskKey=store.db.password+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27+false+null
+
+2023-12-19 00:45:22,232 INFO [dump-task] add task. groupKey=store.db.user+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27, taskKey=store.db.user+SEATA_GROUP+b13a353e-a2c5-45cb-8e6f-c231ee7f5f27+false+null
 

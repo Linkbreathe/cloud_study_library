@@ -1,0 +1,22 @@
+2023-12-17 00:19:35,072 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@borrow-service, value: {"instanceList":[]}
+
+2023-12-17 00:19:35,204 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@user-service, value: {"instanceList":[{"instanceId":"192.168.190.1#8302#Nanchang#DEFAULT_GROUP@@user-service","ip":"192.168.190.1","port":8302,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"Nanchang","serviceName":"DEFAULT_GROUP@@user-service","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1702743570441,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2023-12-17 00:19:35,248 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@user-service, value: {"instanceList":[]}
+
+2023-12-17 00:19:35,303 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@book-service, value: {"instanceList":[{"instanceId":"192.168.190.1#8102#Beijing#DEFAULT_GROUP@@book-service","ip":"192.168.190.1","port":8102,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"Beijing","serviceName":"DEFAULT_GROUP@@book-service","metadata":{"preserved.register.source":"SPRING_CLOUD"},"lastBeat":1702743571940,"marked":false,"app":"unknown","instanceHeartBeatTimeOut":15000,"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000}]}
+
+2023-12-17 00:19:35,387 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@book-service, value: {"instanceList":[]}
+
+2023-12-17 00:21:49,973 WARN namespace : 4f951b28-e2e2-46d6-9c2b-448fd33895dc, [DEFAULT_GROUP@@book-service] services are automatically cleaned
+
+2023-12-17 00:21:49,992 WARN namespace : 4f951b28-e2e2-46d6-9c2b-448fd33895dc, [DEFAULT_GROUP@@borrow-service] services are automatically cleaned
+
+2023-12-17 00:21:49,992 WARN namespace : 4f951b28-e2e2-46d6-9c2b-448fd33895dc, [DEFAULT_GROUP@@user-service] services are automatically cleaned
+
+2023-12-17 00:21:49,996 INFO [DEAD-SERVICE] {"name":"DEFAULT_GROUP@@book-service","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"4f951b28-e2e2-46d6-9c2b-448fd33895dc","ipDeleteTimeout":30000,"lastModifiedMillis":1702743575387,"checksum":"a4c32321ac717aa976fc42d89fc0cea3","clusterMap":{"Beijing":{"serviceName":"DEFAULT_GROUP@@book-service","name":"Beijing","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80},"Nanchang":{"serviceName":"DEFAULT_GROUP@@book-service","name":"Nanchang","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80}},"empty":true}
+
+2023-12-17 00:21:49,998 INFO [DEAD-SERVICE] {"name":"DEFAULT_GROUP@@borrow-service","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"4f951b28-e2e2-46d6-9c2b-448fd33895dc","ipDeleteTimeout":30000,"lastModifiedMillis":1702743575073,"checksum":"ce4ffdf0d582bb26c774484b2591aa02","clusterMap":{"DEFAULT":{"serviceName":"DEFAULT_GROUP@@borrow-service","name":"DEFAULT","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80}},"empty":true}
+
+2023-12-17 00:21:49,998 INFO [DEAD-SERVICE] {"name":"DEFAULT_GROUP@@user-service","protectThreshold":0.0,"groupName":"DEFAULT_GROUP","metadata":{},"finalizeCount":5,"owners":[],"resetWeight":false,"enabled":true,"selector":{"type":"none"},"namespaceId":"4f951b28-e2e2-46d6-9c2b-448fd33895dc","ipDeleteTimeout":30000,"lastModifiedMillis":1702743575248,"checksum":"9394a656208c0504cdb31602f2cf77ca","clusterMap":{"Nanchang":{"serviceName":"DEFAULT_GROUP@@user-service","name":"Nanchang","healthChecker":{"type":"TCP"},"defaultPort":80,"defaultCheckPort":80,"useIPPort4Check":true,"metadata":{},"sitegroup":"","defCkport":80,"empty":true,"defIPPort":80}},"empty":true}
+

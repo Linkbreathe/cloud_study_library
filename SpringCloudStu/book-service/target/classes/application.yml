@@ -22,6 +22,22 @@ spring:
     loadbalancer:
       nacos:
         enabled: true
-
+seata:
+  # register
+  registry:
+    # Use Nacos
+    type: nacos
+    nacos:
+      # Use the Seata namespace so that the Seata service can be found correctly. Since the group uses SEATA_GROUP, the default configuration value is, so there is no need to configure it.
+      namespace: b13a353e-a2c5-45cb-8e6f-c231ee7f5f27
+      username: nacos
+      password: nacos
+  #Configuration
+  config:
+    type: nacos
+    nacos:
+      namespace: b13a353e-a2c5-45cb-8e6f-c231ee7f5f27
+      username: nacos
+      password: nacos
 
 

@@ -11,6 +11,8 @@ import example.mapper.BorrowMapper;
 import example.service.BorrowService;
 import example.service.client.BookClient;
 import example.service.client.UserClient;
+import io.seata.core.context.RootContext;
+import io.seata.spring.annotation.GlobalTransactional;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
@@ -45,8 +47,10 @@ public class BorrowServiceImpl implements BorrowService{
         return new UserBorrowDetail(user, bookList);
     }
 
+    @GlobalTransactional
     @Override
     public boolean doBorrow(int uid, int bid) {
+        System.out.println(RootContext.getXID());
         //1. 判断图书和用户是否都支持借阅
         if(bookClient.bookRemain(bid) < 1)
             throw new RuntimeException("图书数量不足");

@@ -1,0 +1,6 @@
+2023-12-17 00:21:49,992 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@book-service
+
+2023-12-17 00:21:49,997 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@borrow-service
+
+2023-12-17 00:21:49,998 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@user-service
+

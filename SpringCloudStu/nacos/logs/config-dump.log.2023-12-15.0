@@ -1,0 +1,4 @@
+2023-12-15 15:20:31,340 INFO [dump-all-ok] book-service-dev.yml+DEFAULT_GROUP, 1701865006512, length=165, md5=c0d2059462373117ebbc9e734f0c0c76
+
+2023-12-15 15:20:31,341 INFO [dump-all-ok] user-service-dev.yml+DEFAULT_GROUP, 1701866118701, length=165, md5=c0d2059462373117ebbc9e734f0c0c76
+

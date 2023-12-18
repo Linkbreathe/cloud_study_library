@@ -1,0 +1,12 @@
+2023-12-16 22:18:47,965|192.168.190.1|book-service|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-12-16 22:18:48,147|192.168.190.1|book-service.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-12-16 22:18:48,304|192.168.190.1|book-service-dev.yml|DEFAULT_GROUP|null|unknown|1701865006512|pull|ok|871321792|127.0.0.1
+2023-12-16 22:18:51,047|192.168.190.1|book-service|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-12-16 22:18:51,100|192.168.190.1|book-service.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-12-16 22:18:51,132|192.168.190.1|book-service-dev.yml|DEFAULT_GROUP|null|unknown|1701865006512|pull|ok|871324620|127.0.0.1
+2023-12-16 22:19:10,087|192.168.190.1|user-service|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-12-16 22:19:10,115|192.168.190.1|user-service.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-12-16 22:19:10,126|192.168.190.1|user-service-dev.yml|DEFAULT_GROUP|null|unknown|1701866118701|pull|ok|870231425|127.0.0.1
+2023-12-16 22:19:16,993|192.168.190.1|user-service|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-12-16 22:19:17,053|192.168.190.1|user-service.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-12-16 22:19:17,067|192.168.190.1|user-service-dev.yml|DEFAULT_GROUP|null|unknown|1701866118701|pull|ok|870238366|127.0.0.1

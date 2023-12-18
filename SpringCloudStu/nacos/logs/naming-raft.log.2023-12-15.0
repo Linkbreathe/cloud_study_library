@@ -1,0 +1,50 @@
+2023-12-15 00:35:44,050 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@borrow-service
+
+2023-12-15 15:20:29,723 INFO raft peers changed: [Member{ip='192.168.190.1', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2023-12-15 15:20:29,756 INFO initializing Raft sub-system
+
+2023-12-15 15:20:29,757 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2023-12-15 15:20:29,759 INFO cache loaded, datum count: 0, current term: 0
+
+2023-12-15 15:20:29,759 INFO finish to load data from disk, cost: 3 ms.
+
+2023-12-15 15:20:29,763 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2023-12-15 15:20:30,642 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2023-12-15 15:20:30,667 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2023-12-15 15:20:34,705 WARN start to close old raft protocol!!!
+
+2023-12-15 15:20:34,705 WARN stop old raft protocol task for notifier
+
+2023-12-15 15:20:34,705 WARN stop old raft protocol task for master task
+
+2023-12-15 15:20:34,705 WARN stop old raft protocol task for heartbeat task
+
+2023-12-15 15:20:34,705 WARN clean old cache datum for old raft
+
+2023-12-15 15:20:34,705 WARN start to close old raft protocol!!!
+
+2023-12-15 15:20:34,705 WARN stop old raft protocol task for notifier
+
+2023-12-15 15:20:34,705 WARN stop old raft protocol task for master task
+
+2023-12-15 15:20:34,705 WARN stop old raft protocol task for heartbeat task
+
+2023-12-15 15:20:34,705 WARN clean old cache datum for old raft
+
+2023-12-15 15:20:34,705 WARN start to move old raft protocol metadata
+
+2023-12-15 15:20:34,709 WARN start to move old raft protocol metadata
+
+2023-12-15 15:20:34,710 INFO raft peers changed: [Member{ip='192.168.190.1', port=8848, state=UP, extendInfo={lastRefreshTime=1702624834709, raftPort=7848, version=1.4.3}}]
+
+2023-12-15 15:20:40,915 INFO add listener: com.alibaba.nacos.naming.iplist.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@book-service
+
+2023-12-15 15:20:48,435 INFO add listener: com.alibaba.nacos.naming.iplist.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@user-service
+
+2023-12-15 15:29:27,637 INFO add listener: com.alibaba.nacos.naming.iplist.4f951b28-e2e2-46d6-9c2b-448fd33895dc##DEFAULT_GROUP@@borrow-service
+
